@@ -1,1090 +1,4 @@
 Name,Party,District,Session,Chamber,Speaker
-"Alexander, Rebecca",R,7,112,House,FALSE
-"Baum, Charlie",R,37,112,House,FALSE
-"Beck, Bill",D,51,112,House,FALSE
-"Boyd, Clark",R,46,112,House,FALSE
-"Bricken, Rush",R,47,112,House,FALSE
-"Byrd, David",R,71,112,House,FALSE
-"Calfee, Kent",R,32,112,House,FALSE
-"Campbell, Scotty",R,3,112,House,FALSE
-"Camper, Karen D.",D,87,112,House,FALSE
-"Carr, Dale",R,12,112,House,FALSE
-"Carringer, Michele",R,16,112,House,FALSE
-"Carter, Mike",R,29,112,House,FALSE
-"Casada, Glen",R,63,112,House,FALSE
-"Cepicky, Scott",R,64,112,House,FALSE
-"Chism, Jesse",D,85,112,House,FALSE
-"Clemmons, John Ray",D,55,112,House,FALSE
-"Cochran, Mark",R,23,112,House,FALSE
-"Cooper, Barbara",D,86,112,House,FALSE
-"Crawford, John",R,1,112,House,FALSE
-"Curcio, Michael G.",R,69,112,House,FALSE
-"Darby, Tandy",R,76,112,House,FALSE
-"Dixie, Vincent",D,54,112,House,FALSE
-"Doggett, Clay",R,70,112,House,FALSE
-"Eldridge, Rick",R,10,112,House,FALSE
-"Faison, Jeremy",R,11,112,House,FALSE
-"Farmer, Andrew",R,17,112,House,FALSE
-"Freeman, Bob",D,56,112,House,FALSE
-"Gant, Ron M.",R,94,112,House,FALSE
-"Garrett, Johnny",R,45,112,House,FALSE
-"Gillespie, John",R,97,112,House,FALSE
-"Griffey, Bruce",R,75,112,House,FALSE
-"Grills, Rusty",R,77,112,House,FALSE
-"Hakeem, Yusuf",D,28,112,House,FALSE
-"Halford, Curtis",R,79,112,House,FALSE
-"Hall, Mark",R,24,112,House,FALSE
-"Hardaway, G. A.",D,93,112,House,FALSE
-"Harris, Torrey C.",D,90,112,House,FALSE
-"Haston, Kirk",R,72,112,House,FALSE
-"Hawk, David",R,5,112,House,FALSE
-"Hazlewood, Patsy",R,27,112,House,FALSE
-"Helton, Esther",R,30,112,House,FALSE
-"Hicks, Gary",R,9,112,House,FALSE
-"Hicks, Tim",R,6,112,House,FALSE
-"Hodges, Jason",D,67,112,House,FALSE
-"Holsclaw, Jr., John B.",R,4,112,House,FALSE
-"Howell, Dan",R,22,112,House,FALSE
-"Hulsey, Bud",R,2,112,House,FALSE
-"Hurt, Chris",R,82,112,House,FALSE
-"Jernigan, Darren",D,60,112,House,FALSE
-"Johnson, Curtis G.",R,68,112,House,FALSE
-"Johnson, Gloria",D,13,112,House,FALSE
-"Keisling, Kelly",R,38,112,House,FALSE
-"Kumar, Sabi",R,66,112,House,FALSE
-"Lafferty, Justin",R,89,112,House,FALSE
-"Lamar, London",D,91,112,House,FALSE
-"Lamberth, William",R,44,112,House,FALSE
-"Leatherwood, Tom",R,99,112,House,FALSE
-"Littleton, Mary",R,78,112,House,FALSE
-"Love, Harold M., Jr.",D,58,112,House,FALSE
-"Lynn, Susan M.",R,57,112,House,FALSE
-"Mannis, Eddie",R,18,112,House,FALSE
-"Marsh, Pat",R,62,112,House,FALSE
-"McKenzie, Sam",D,15,112,House,FALSE
-"Miller, Larry J.",D,88,112,House,FALSE
-"Mitchell, Bo",D,50,112,House,FALSE
-"Moody, Debra",R,81,112,House,FALSE
-"Moon, Jerome",R,8,112,House,FALSE
-"Ogles, Brandon",R,61,112,House,FALSE
-"Parkinson, Antonio",D,98,112,House,FALSE
-"Potts, Jason",D,59,112,House,FALSE
-"Powell, Jason",D,53,112,House,FALSE
-"Powers, Dennis",R,36,112,House,FALSE
-"Ragan, John",R,33,112,House,FALSE
-"Ramsey, Bob",R,20,112,House,FALSE
-"Reedy, Jay D.",R,74,112,House,FALSE
-"Rudd, Tim",R,34,112,House,FALSE
-"Rudder, Iris",R,39,112,House,FALSE
-"Russell, Lowell",R,21,112,House,FALSE
-"Sexton, Cameron",R,25,112,House,TRUE
-"Sexton, Jerry",R,35,112,House,FALSE
-"Shaw, Johnny",D,80,112,House,FALSE
-"Sherrell, Paul",R,43,112,House,FALSE
-"Smith, Robin",R,26,112,House,FALSE
-"Sparks, Mike",R,49,112,House,FALSE
-"Stewart, Mike",D,52,112,House,FALSE
-"Terry, Bryan",R,48,112,House,FALSE
-"Thompson, Dwayne",D,96,112,House,FALSE
-"Todd, Chris",R,73,112,House,FALSE
-"Towns, Joe, Jr.",D,84,112,House,FALSE
-"Travis, Ron",R,31,112,House,FALSE
-"Vaughan, Kevin",R,95,112,House,FALSE
-"Warner, Todd",R,92,112,House,FALSE
-"Weaver, Terri Lynn",R,40,112,House,FALSE
-"White, Mark",R,83,112,House,FALSE
-"Whitson, Sam",R,65,112,House,FALSE
-"Williams, Ryan",R,42,112,House,FALSE
-"Windle, John Mark",D,41,112,House,FALSE
-"Wright, Dave",R,19,112,House,FALSE
-"Zachary, Jason",R,14,112,House,FALSE
-"Baum, Charlie",R,37,111,House,FALSE
-"Beck, Bill",D,51,111,House,FALSE
-"Boyd, Clark",R,46,111,House,FALSE
-"Bricken, Rush",R,47,111,House,FALSE
-"Byrd, David",R,71,111,House,FALSE
-"Calfee, Kent",R,32,111,House,FALSE
-"Camper, Karen D.",D,87,111,House,FALSE
-"Carr, Dale",R,12,111,House,FALSE
-"Carter, Mike",R,29,111,House,FALSE
-"Casada, Glen",R,63,111,House,FALSE
-"Cepicky, Scott",R,64,111,House,FALSE
-"Chism, Jesse",D,85,111,House,FALSE
-"Clemmons, John Ray",D,55,111,House,FALSE
-"Cochran, Mark",R,23,111,House,FALSE
-"Coley, Jim",R,97,111,House,FALSE
-"Cooper, Barbara",D,86,111,House,FALSE
-"Crawford, John",R,1,111,House,FALSE
-"Curcio, Michael G.",R,69,111,House,FALSE
-"Daniel, Martin",R,18,111,House,FALSE
-"DeBerry, John J., Jr.",D,90,111,House,FALSE
-"Dixie, Vincent",D,54,111,House,FALSE
-"Doggett, Clay",R,70,111,House,FALSE
-"Dunn, Bill",R,16,111,House,FALSE
-"Eldridge, Rick",R,10,111,House,FALSE
-"Faison, Jeremy",R,11,111,House,FALSE
-"Farmer, Andrew",R,17,111,House,FALSE
-"Freeman, Bob",D,56,111,House,FALSE
-"Gant, Ron M.",R,94,111,House,FALSE
-"Garrett, Johnny",R,45,111,House,FALSE
-"Griffey, Bruce",R,75,111,House,FALSE
-"Grills, Rusty",R,77,111,House,FALSE
-"Hakeem, Yusuf",D,28,111,House,FALSE
-"Halford, Curtis",R,79,111,House,FALSE
-"Hall, Mark",R,24,111,House,FALSE
-"Hardaway, G. A.",D,93,111,House,FALSE
-"Haston, Kirk",R,72,111,House,FALSE
-"Hawk, David",R,5,111,House,FALSE
-"Hazlewood, Patsy",R,27,111,House,FALSE
-"Helton, Esther",R,30,111,House,FALSE
-"Hicks, Gary",R,9,111,House,FALSE
-"Hill, Matthew",R,7,111,House,FALSE
-"Hill, Timothy",R,3,111,House,FALSE
-"Hodges, Jason",D,67,111,House,FALSE
-"Holsclaw, Jr., John B.",R,4,111,House,FALSE
-"Holt, Andy H.",R,76,111,House,FALSE
-"Howell, Dan",R,22,111,House,FALSE
-"Hulsey, Bud",R,2,111,House,FALSE
-"Hurt, Chris",R,82,111,House,FALSE
-"Jernigan, Darren",D,60,111,House,FALSE
-"Johnson, Curtis G.",R,68,111,House,FALSE
-"Johnson, Gloria",D,13,111,House,FALSE
-"Keisling, Kelly",R,38,111,House,FALSE
-"Kumar, Sabi",R,66,111,House,FALSE
-"Lafferty, Justin",R,89,111,House,FALSE
-"Lamar, London",D,91,111,House,FALSE
-"Lamberth, William",R,44,111,House,FALSE
-"Leatherwood, Tom",R,99,111,House,FALSE
-"Littleton, Mary",R,78,111,House,FALSE
-"Love, Harold M., Jr.",D,58,111,House,FALSE
-"Lynn, Susan M.",R,57,111,House,FALSE
-"Marsh, Pat",R,62,111,House,FALSE
-"Miller, Larry J.",D,88,111,House,FALSE
-"Mitchell, Bo",D,50,111,House,FALSE
-"Moody, Debra",R,81,111,House,FALSE
-"Moon, Jerome",R,8,111,House,FALSE
-"Ogles, Brandon",R,61,111,House,FALSE
-"Parkinson, Antonio",D,98,111,House,FALSE
-"Potts, Jason",D,59,111,House,FALSE
-"Powell, Jason",D,53,111,House,FALSE
-"Powers, Dennis",R,36,111,House,FALSE
-"Ragan, John",R,33,111,House,FALSE
-"Ramsey, Bob",R,20,111,House,FALSE
-"Reedy, Jay D.",R,74,111,House,FALSE
-"Rudd, Tim",R,34,111,House,FALSE
-"Rudder, Iris",R,39,111,House,FALSE
-"Russell, Lowell",R,21,111,House,FALSE
-"Sexton, Cameron",R,25,111,House,TRUE
-"Sexton, Jerry",R,35,111,House,FALSE
-"Shaw, Johnny",D,80,111,House,FALSE
-"Sherrell, Paul",R,43,111,House,FALSE
-"Smith, Robin",R,26,111,House,FALSE
-"Sparks, Mike",R,49,111,House,FALSE
-"Staples, Rick",D,15,111,House,FALSE
-"Stewart, Mike",D,52,111,House,FALSE
-"Terry, Bryan",R,48,111,House,FALSE
-"Thompson, Dwayne",D,96,111,House,FALSE
-"Tillis, Rick",R,92,111,House,FALSE
-"Todd, Chris",R,73,111,House,FALSE
-"Towns, Joe, Jr.",D,84,111,House,FALSE
-"Travis, Ron",R,31,111,House,FALSE
-"Van Huss, James (Micah)",R,6,111,House,FALSE
-"Vaughan, Kevin",R,95,111,House,FALSE
-"Weaver, Terri Lynn",R,40,111,House,FALSE
-"White, Mark",R,83,111,House,FALSE
-"Whitson, Sam",R,65,111,House,FALSE
-"Williams, Ryan",R,42,111,House,FALSE
-"Windle, John Mark",D,41,111,House,FALSE
-"Wright, Dave",R,19,111,House,FALSE
-"Zachary, Jason",R,14,111,House,FALSE
-"Akbari, Raumesh",D,91,110,House,FALSE
-"Alexander, David",R,39,110,House,FALSE
-"Beck, Bill",D,51,110,House,FALSE
-"Boyd, Clark",R,46,110,House,FALSE
-"Brooks, Harry",R,19,110,House,FALSE
-"Brooks, Kevin",R,24,110,House,FALSE
-"Butt, Sheila",R,64,110,House,FALSE
-"Byrd, David",R,71,110,House,FALSE
-"Calfee, Kent",R,32,110,House,FALSE
-"Camper, Karen D.",D,87,110,House,FALSE
-"Carr, Dale",R,12,110,House,FALSE
-"Carter, Mike",R,29,110,House,FALSE
-"Casada, Glen",R,63,110,House,FALSE
-"Clemmons, John Ray",D,55,110,House,FALSE
-"Coley, Jim",R,97,110,House,FALSE
-"Cooper, Barbara",D,86,110,House,FALSE
-"Crawford, John",R,1,110,House,FALSE
-"Curcio, Michael G.",R,69,110,House,FALSE
-"Daniel, Martin",R,18,110,House,FALSE
-"DeBerry, John J., Jr.",D,90,110,House,FALSE
-"Doss, Barry",R,70,110,House,FALSE
-"Dunn, Bill",R,16,110,House,FALSE
-"Eldridge, Jimmy A.",R,73,110,House,FALSE
-"Faison, Jeremy",R,11,110,House,FALSE
-"Farmer, Andrew",R,17,110,House,FALSE
-"Favors, JoAnne",D,28,110,House,FALSE
-"Fitzhugh, Craig",D,82,110,House,FALSE
-"Forgety, John",R,23,110,House,FALSE
-"Gant, Ron M.",R,94,110,House,FALSE
-"Gilmore, Brenda",D,54,110,House,FALSE
-"Goins, Tilman",R,10,110,House,FALSE
-"Gravitt, Marc",R,30,110,House,FALSE
-"Halford, Curtis",R,79,110,House,FALSE
-"Hardaway, G. A.",D,93,110,House,FALSE
-"Harwell, Beth",R,56,110,House,TRUE
-"Hawk, David",R,5,110,House,FALSE
-"Hazlewood, Patsy",R,27,110,House,FALSE
-"Hicks, Gary",R,9,110,House,FALSE
-"Hill, Matthew",R,7,110,House,FALSE
-"Hill, Timothy",R,3,110,House,FALSE
-"Holsclaw, Jr., John B.",R,4,110,House,FALSE
-"Holt, Andy H.",R,76,110,House,FALSE
-"Howell, Dan",R,22,110,House,FALSE
-"Hulsey, Bud",R,2,110,House,FALSE
-"Jernigan, Darren",D,60,110,House,FALSE
-"Johnson, Curtis G.",R,68,110,House,FALSE
-"Jones, Sherry",D,59,110,House,FALSE
-"Kane, Roger",R,89,110,House,FALSE
-"Keisling, Kelly",R,38,110,House,FALSE
-"Kumar, Sabi",R,66,110,House,FALSE
-"Lamberth, William",R,44,110,House,FALSE
-"Littleton, Mary",R,78,110,House,FALSE
-"Lollar, Ron",R,99,110,House,FALSE
-"Love, Harold M., Jr.",D,58,110,House,FALSE
-"Lynn, Susan M.",R,57,110,House,FALSE
-"Marsh, Pat",R,62,110,House,FALSE
-"Matheny, Judd",R,47,110,House,FALSE
-"Matlock, Jimmy",R,21,110,House,FALSE
-"McCormick, Gerald",R,26,110,House,FALSE
-"McDaniel, Steve",R,72,110,House,FALSE
-"Miller, Larry J.",D,88,110,House,FALSE
-"Mitchell, Bo",D,50,110,House,FALSE
-"Moody, Debra",R,81,110,House,FALSE
-"Moon, Jerome",R,8,110,House,FALSE
-"Parkinson, Antonio",D,98,110,House,FALSE
-"Pitts, Joe",D,67,110,House,FALSE
-"Powell, Jason",D,53,110,House,FALSE
-"Powers, Dennis",R,36,110,House,FALSE
-"Ragan, John",R,33,110,House,FALSE
-"Ramsey, Bob",R,20,110,House,FALSE
-"Reedy, Jay D.",R,74,110,House,FALSE
-"Rogers, Courtney",R,45,110,House,FALSE
-"Rudd, Tim",R,34,110,House,FALSE
-"Sanderson, Bill",R,77,110,House,FALSE
-"Sargent, Charles Michael",R,61,110,House,FALSE
-"Sexton, Cameron",R,25,110,House,FALSE
-"Sexton, Jerry",R,35,110,House,FALSE
-"Shaw, Johnny",D,80,110,House,FALSE
-"Sherrell, Paul",R,43,110,House,FALSE
-"Smith, Eddie",R,13,110,House,FALSE
-"Sparks, Mike",R,49,110,House,FALSE
-"Staples, Rick",D,15,110,House,FALSE
-"Stewart, Mike",D,52,110,House,FALSE
-"Terry, Bryan",R,48,110,House,FALSE
-"Thompson, Dwayne",D,96,110,House,FALSE
-"Tillis, Rick",R,92,110,House,FALSE
-"Towns, Joe, Jr.",D,84,110,House,FALSE
-"Travis, Ron",R,31,110,House,FALSE
-"Turner, Johnnie",D,85,110,House,FALSE
-"Van Huss, James (Micah)",R,6,110,House,FALSE
-"Vaughan, Kevin",R,95,110,House,FALSE
-"Weaver, Terri Lynn",R,40,110,House,FALSE
-"White, Dawn",R,37,110,House,FALSE
-"White, Mark",R,83,110,House,FALSE
-"Whitson, Sam",R,65,110,House,FALSE
-"Williams, Ryan",R,42,110,House,FALSE
-"Windle, John Mark",D,41,110,House,FALSE
-"Wirgau, Tim",R,75,110,House,FALSE
-"Zachary, Jason",R,14,110,House,FALSE
-"Akbari, Raumesh",D,91,109,House,FALSE
-"Alexander, David",R,39,109,House,FALSE
-"Beck, Bill",D,51,109,House,FALSE
-"Brooks, Harry",R,19,109,House,FALSE
-"Brooks, Kevin",R,24,109,House,FALSE
-"Butt, Sheila",R,64,109,House,FALSE
-"Byrd, David",R,71,109,House,FALSE
-"Calfee, Kent",R,32,109,House,FALSE
-"Camper, Karen D.",D,87,109,House,FALSE
-"Carr, Dale",R,12,109,House,FALSE
-"Carter, Mike",R,29,109,House,FALSE
-"Casada, Glen",R,63,109,House,FALSE
-"Clemmons, John Ray",D,55,109,House,FALSE
-"Coley, Jim",R,97,109,House,FALSE
-"Cooper, Barbara",D,86,109,House,FALSE
-"Daniel, Martin",R,18,109,House,FALSE
-"DeBerry, John J., Jr.",D,90,109,House,FALSE
-"Doss, Barry",R,70,109,House,FALSE
-"Dunlap, Kevin",D,43,109,House,FALSE
-"Dunn, Bill",R,16,109,House,FALSE
-"Eldridge, Jimmy A.",R,73,109,House,FALSE
-"Faison, Jeremy",R,11,109,House,FALSE
-"Farmer, Andrew",R,17,109,House,FALSE
-"Favors, JoAnne",D,28,109,House,FALSE
-"Fitzhugh, Craig",D,82,109,House,FALSE
-"Forgety, John",R,23,109,House,FALSE
-"Gilmore, Brenda",D,54,109,House,FALSE
-"Goins, Tilman",R,10,109,House,FALSE
-"Gravitt, Marc",R,30,109,House,FALSE
-"Halford, Curtis",R,79,109,House,FALSE
-"Hardaway, G. A.",D,93,109,House,FALSE
-"Harwell, Beth",R,56,109,House,TRUE
-"Hawk, David",R,5,109,House,FALSE
-"Hazlewood, Patsy",R,27,109,House,FALSE
-"Hicks, Gary",R,9,109,House,FALSE
-"Hill, Matthew",R,7,109,House,FALSE
-"Hill, Timothy",R,3,109,House,FALSE
-"Holsclaw, Jr., John B.",R,4,109,House,FALSE
-"Holt, Andy H.",R,76,109,House,FALSE
-"Howell, Dan",R,22,109,House,FALSE
-"Hulsey, Bud",R,2,109,House,FALSE
-"Jenkins, Jamie H.",R,94,109,House,FALSE
-"Jernigan, Darren",D,60,109,House,FALSE
-"Johnson, Curtis G.",R,68,109,House,FALSE
-"Jones, Sherry",D,59,109,House,FALSE
-"Kane, Roger",R,89,109,House,FALSE
-"Keisling, Kelly",R,38,109,House,FALSE
-"Kumar, Sabi",R,66,109,House,FALSE
-"Lamberth, William",R,44,109,House,FALSE
-"Littleton, Mary",R,78,109,House,FALSE
-"Lollar, Ron",R,99,109,House,FALSE
-"Love, Harold M., Jr.",D,58,109,House,FALSE
-"Lundberg, Jon",R,1,109,House,FALSE
-"Lynn, Susan M.",R,57,109,House,FALSE
-"Marsh, Pat",R,62,109,House,FALSE
-"Matheny, Judd",R,47,109,House,FALSE
-"Matlock, Jimmy",R,21,109,House,FALSE
-"McCormick, Gerald",R,26,109,House,FALSE
-"McDaniel, Steve",R,72,109,House,FALSE
-"McManus, Steve",R,96,109,House,FALSE
-"Miller, Larry J.",D,88,109,House,FALSE
-"Mitchell, Bo",D,50,109,House,FALSE
-"Moody, Debra",R,81,109,House,FALSE
-"Parkinson, Antonio",D,98,109,House,FALSE
-"Pitts, Joe",D,67,109,House,FALSE
-"Pody, Mark",R,46,109,House,FALSE
-"Powell, Jason",D,53,109,House,FALSE
-"Powers, Dennis",R,36,109,House,FALSE
-"Ragan, John",R,33,109,House,FALSE
-"Ramsey, Bob",R,20,109,House,FALSE
-"Reedy, Jay D.",R,74,109,House,FALSE
-"Rogers, Courtney",R,45,109,House,FALSE
-"Sanderson, Bill",R,77,109,House,FALSE
-"Sargent, Charles Michael",R,61,109,House,FALSE
-"Sexton, Cameron",R,25,109,House,FALSE
-"Sexton, Jerry",R,35,109,House,FALSE
-"Shaw, Johnny",D,80,109,House,FALSE
-"Shepard, David",D,69,109,House,FALSE
-"Smith, Eddie",R,13,109,House,FALSE
-"Sparks, Mike",R,49,109,House,FALSE
-"Spivey, Billy",R,92,109,House,FALSE
-"Stewart, Mike",D,52,109,House,FALSE
-"Swann, Art",R,8,109,House,FALSE
-"Terry, Bryan",R,48,109,House,FALSE
-"Todd, Curry",R,95,109,House,FALSE
-"Towns, Joe, Jr.",D,84,109,House,FALSE
-"Travis, Ron",R,31,109,House,FALSE
-"Turner, Johnnie",D,85,109,House,FALSE
-"Van Huss, James (Micah)",R,6,109,House,FALSE
-"Weaver, Terri Lynn",R,40,109,House,FALSE
-"White, Dawn",R,37,109,House,FALSE
-"White, Mark",R,83,109,House,FALSE
-"Williams, Ryan",R,42,109,House,FALSE
-"Windle, John Mark",D,41,109,House,FALSE
-"Wirgau, Tim",R,75,109,House,FALSE
-"Womick, Rick",R,34,109,House,FALSE
-"Zachary, Jason",R,14,109,House,FALSE
-"Akbari, Raumesh",D,91,108,House,FALSE
-"Alexander, David",R,39,108,House,FALSE
-"Armstrong, Joe E.",D,15,108,House,FALSE
-"Bailey, Paul",R,43,108,House,FALSE
-"Brooks, Harry",R,19,108,House,FALSE
-"Brooks, Kevin",R,24,108,House,FALSE
-"Butt, Sheila",R,64,108,House,FALSE
-"Calfee, Kent",R,32,108,House,FALSE
-"Camper, Karen D.",D,87,108,House,FALSE
-"Carr, Dale",R,12,108,House,FALSE
-"Carr, Joe",R,48,108,House,FALSE
-"Carter, Mike",R,29,108,House,FALSE
-"Casada, Glen",R,63,108,House,FALSE
-"Coley, Jim",R,97,108,House,FALSE
-"Cooper, Barbara",D,86,108,House,FALSE
-"DeBerry, John J., Jr.",D,90,108,House,FALSE
-"Dennis, Vance",R,71,108,House,FALSE
-"Doss, Barry",R,70,108,House,FALSE
-"Dunn, Bill",R,16,108,House,FALSE
-"Durham, Jeremy",R,65,108,House,FALSE
-"Eldridge, Jimmy A.",R,73,108,House,FALSE
-"Evans, Joshua G.",R,66,108,House,FALSE
-"Faison, Jeremy",R,11,108,House,FALSE
-"Farmer, Andrew",R,17,108,House,FALSE
-"Favors, JoAnne",D,28,108,House,FALSE
-"Fitzhugh, Craig",D,82,108,House,FALSE
-"Floyd, Richard",R,27,108,House,FALSE
-"Forgety, John",R,23,108,House,FALSE
-"Gilmore, Brenda",D,54,108,House,FALSE
-"Goins, Tilman",R,10,108,House,FALSE
-"Gravitt, Marc",R,30,108,House,FALSE
-"Halford, Curtis",R,79,108,House,FALSE
-"Hall, Steve",R,18,108,House,FALSE
-"Hardaway, G. A.",D,93,108,House,FALSE
-"Harrison, Michael",R,9,108,House,FALSE
-"Harwell, Beth",R,56,108,House,TRUE
-"Hawk, David",R,5,108,House,FALSE
-"Haynes, Ryan A.",R,14,108,House,FALSE
-"Hill, Matthew",R,7,108,House,FALSE
-"Hill, Timothy",R,3,108,House,FALSE
-"Holt, Andy H.",R,76,108,House,FALSE
-"Howell, Dan",R,22,108,House,FALSE
-"Jernigan, Darren",D,60,108,House,FALSE
-"Johnson, Curtis G.",R,68,108,House,FALSE
-"Johnson, Gloria",D,13,108,House,FALSE
-"Jones, Sherry",D,59,108,House,FALSE
-"Kane, Roger",R,89,108,House,FALSE
-"Keisling, Kelly",R,38,108,House,FALSE
-"Lamberth, William",R,44,108,House,FALSE
-"Littleton, Mary",R,78,108,House,FALSE
-"Lollar, Ron",R,99,108,House,FALSE
-"Love, Harold M., Jr.",D,58,108,House,FALSE
-"Lundberg, Jon",R,1,108,House,FALSE
-"Lynn, Susan M.",R,57,108,House,FALSE
-"Marsh, Pat",R,62,108,House,FALSE
-"Matheny, Judd",R,47,108,House,FALSE
-"Matlock, Jimmy",R,21,108,House,FALSE
-"McCormick, Gerald",R,26,108,House,FALSE
-"McDaniel, Steve",R,72,108,House,FALSE
-"McManus, Steve",R,96,108,House,FALSE
-"Miller, Larry J.",D,88,108,House,FALSE
-"Mitchell, Bo",D,50,108,House,FALSE
-"Moody, Debra",R,81,108,House,FALSE
-"Odom, Gary",D,55,108,House,FALSE
-"Parkinson, Antonio",D,98,108,House,FALSE
-"Pitts, Joe",D,67,108,House,FALSE
-"Pody, Mark",R,46,108,House,FALSE
-"Powell, Jason",D,53,108,House,FALSE
-"Powers, Dennis",R,36,108,House,FALSE
-"Ragan, John",R,33,108,House,FALSE
-"Ramsey, Bob",R,20,108,House,FALSE
-"Rich, Barrett",R,94,108,House,FALSE
-"Roach, Dennis E.",R,35,108,House,FALSE
-"Rogers, Courtney",R,45,108,House,FALSE
-"Sanderson, Bill",R,77,108,House,FALSE
-"Sargent, Charles Michael",R,61,108,House,FALSE
-"Sexton, Cameron",R,25,108,House,FALSE
-"Shaw, Johnny",D,80,108,House,FALSE
-"Shepard, David",D,69,108,House,FALSE
-"Shipley, Tony",R,2,108,House,FALSE
-"Sparks, Mike",R,49,108,House,FALSE
-"Spivey, Billy",R,92,108,House,FALSE
-"Stewart, Mike",D,52,108,House,FALSE
-"Swann, Art",R,8,108,House,FALSE
-"Tidwell, John C.",D,74,108,House,FALSE
-"Todd, Curry",R,95,108,House,FALSE
-"Towns, Joe, Jr.",D,84,108,House,FALSE
-"Travis, Ron",R,31,108,House,FALSE
-"Turner, Johnnie",D,85,108,House,FALSE
-"Turner, Mike",D,51,108,House,FALSE
-"Van Huss, James (Micah)",R,6,108,House,FALSE
-"Weaver, Terri Lynn",R,40,108,House,FALSE
-"White, Dawn",R,37,108,House,FALSE
-"White, Mark",R,83,108,House,FALSE
-"Williams, Kent",I,4,108,House,FALSE
-"Williams, Ryan",R,42,108,House,FALSE
-"Windle, John Mark",D,41,108,House,FALSE
-"Wirgau, Tim",R,75,108,House,FALSE
-"Womick, Rick",R,34,108,House,FALSE
-"Alexander, David",R,39,107,House,FALSE
-"Armstrong, Joe E.",D,15,107,House,FALSE
-"Bass, Eddie",D,65,107,House,FALSE
-"Brooks, Harry",R,19,107,House,FALSE
-"Brooks, Kevin",R,24,107,House,FALSE
-"Brown, Tommie F.",D,28,107,House,FALSE
-"Butt, Sheila",R,64,107,House,FALSE
-"Campbell, Scotty",R,3,107,House,FALSE
-"Camper, Karen D.",D,87,107,House,FALSE
-"Carr, Joe",R,48,107,House,FALSE
-"Casada, Glen",R,63,107,House,FALSE
-"Cobb, Jim",R,31,107,House,FALSE
-"Coley, Jim",R,97,107,House,FALSE
-"Cooper, Barbara",D,86,107,House,FALSE
-"Curtiss, Charles",D,43,107,House,FALSE
-"Dean, Vince",R,30,107,House,FALSE
-"DeBerry, John J., Jr.",D,90,107,House,FALSE
-"DeBerry, Lois M.",D,91,107,House,FALSE
-"Dennis, Vance",R,71,107,House,FALSE
-"Dunn, Bill",R,16,107,House,FALSE
-"Elam, Linda",R,57,107,House,FALSE
-"Eldridge, Jimmy A.",R,73,107,House,FALSE
-"Evans, Joshua G.",R,66,107,House,FALSE
-"Faison, Jeremy",R,11,107,House,FALSE
-"Favors, JoAnne",D,29,107,House,FALSE
-"Fitzhugh, Craig",D,82,107,House,FALSE
-"Floyd, Richard",R,27,107,House,FALSE
-"Ford, Dale",R,6,107,House,FALSE
-"Forgety, John",R,23,107,House,FALSE
-"Gilmore, Brenda",D,54,107,House,FALSE
-"Gotto, Jim",R,60,107,House,FALSE
-"Halford, Curtis",R,79,107,House,FALSE
-"Hall, Steve",R,18,107,House,FALSE
-"Hardaway, G. A.",D,92,107,House,FALSE
-"Harmon, Bill W.",D,37,107,House,FALSE
-"Harrison, Michael",R,9,107,House,FALSE
-"Harwell, Beth",R,56,107,House,TRUE
-"Hawk, David",R,5,107,House,FALSE
-"Haynes, Ryan A.",R,14,107,House,FALSE
-"Hensley, Joey",R,70,107,House,FALSE
-"Hill, Matthew",R,7,107,House,FALSE
-"Holt, Andy H.",R,76,107,House,FALSE
-"Hurley, Julia",R,32,107,House,FALSE
-"Johnson, Curtis G.",R,68,107,House,FALSE
-"Johnson, Phillip",R,78,107,House,FALSE
-"Jones, Sherry",D,59,107,House,FALSE
-"Keisling, Kelly",R,38,107,House,FALSE
-"Kernell, Mike",D,93,107,House,FALSE
-"Lollar, Ron",R,99,107,House,FALSE
-"Lundberg, Jon",R,1,107,House,FALSE
-"Maggart, Debra Young",R,45,107,House,FALSE
-"Marsh, Pat",R,62,107,House,FALSE
-"Matheny, Judd",R,47,107,House,FALSE
-"Matlock, Jimmy",R,21,107,House,FALSE
-"McCormick, Gerald",R,26,107,House,FALSE
-"McDaniel, Steve",R,72,107,House,FALSE
-"McDonald, Michael Ray",D,44,107,House,FALSE
-"McManus, Steve",R,96,107,House,FALSE
-"Miller, Don",R,10,107,House,FALSE
-"Miller, Larry J.",D,88,107,House,FALSE
-"Montgomery, Richard",R,12,107,House,FALSE
-"Moore, Gary W.",D,50,107,House,FALSE
-"Naifeh, Jimmy",D,81,107,House,FALSE
-"Niceley, Frank S.",R,17,107,House,FALSE
-"Odom, Gary",D,55,107,House,FALSE
-"Parkinson, Antonio",D,98,107,House,FALSE
-"Pitts, Joe",D,67,107,House,FALSE
-"Pody, Mark",R,46,107,House,FALSE
-"Powers, Dennis",R,36,107,House,FALSE
-"Pruitt, Mary",D,58,107,House,FALSE
-"Ragan, John",R,33,107,House,FALSE
-"Ramsey, Bob",R,20,107,House,FALSE
-"Rich, Barrett",R,94,107,House,FALSE
-"Richardson, Jeanne",D,89,107,House,FALSE
-"Roach, Dennis E.",R,35,107,House,FALSE
-"Sanderson, Bill",R,77,107,House,FALSE
-"Sargent, Charles Michael",R,61,107,House,FALSE
-"Sexton, Cameron",R,25,107,House,FALSE
-"Shaw, Johnny",D,80,107,House,FALSE
-"Shepard, David",D,69,107,House,FALSE
-"Shipley, Tony",R,2,107,House,FALSE
-"Sontany, Janis Baird",D,53,107,House,FALSE
-"Sparks, Mike",R,49,107,House,FALSE
-"Stewart, Mike",D,52,107,House,FALSE
-"Swann, Art",R,8,107,House,FALSE
-"Tidwell, John C.",D,74,107,House,FALSE
-"Tindell, Harry J.",D,13,107,House,FALSE
-"Todd, Curry",R,95,107,House,FALSE
-"Towns, Joe, Jr.",D,84,107,House,FALSE
-"Turner, Johnnie",D,85,107,House,FALSE
-"Turner, Mike",D,51,107,House,FALSE
-"Watson, Eric",R,22,107,House,FALSE
-"Weaver, Terri Lynn",R,40,107,House,FALSE
-"White, Mark",R,83,107,House,FALSE
-"Williams, Kent",R,4,107,House,FALSE
-"Williams, Ryan",R,42,107,House,FALSE
-"Windle, John Mark",D,41,107,House,FALSE
-"Wirgau, Tim",R,75,107,House,FALSE
-"Womick, Rick",R,34,107,House,FALSE
-"Armstrong, Joe E.",D,15,106,House,FALSE
-"Barker, Judy",D,77,106,House,FALSE
-"Barrett, Donna",R,34,106,House,FALSE
-"Bass, Eddie",D,65,106,House,FALSE
-"Bell, Mike",R,23,106,House,FALSE
-"Bone, Stratton",D,46,106,House,FALSE
-"Borchert, Willie Butch",D,75,106,House,FALSE
-"Brooks, Harry",R,19,106,House,FALSE
-"Brooks, Kevin",R,24,106,House,FALSE
-"Brown, Tommie F.",D,28,106,House,FALSE
-"Camper, Karen D.",D,87,106,House,FALSE
-"Campfield, Stacey",R,18,106,House,FALSE
-"Carr, Joe",R,48,106,House,FALSE
-"Casada, Glen",R,63,106,House,FALSE
-"Cobb, Jim",R,31,106,House,FALSE
-"Cobb, Ty",D,64,106,House,FALSE
-"Coleman, Kent",D,49,106,House,FALSE
-"Coley, Jim",R,97,106,House,FALSE
-"Cooper, Barbara",D,86,106,House,FALSE
-"Curtiss, Charles",D,43,106,House,FALSE
-"Dean, Vince",R,30,106,House,FALSE
-"DeBerry, John J., Jr.",D,90,106,House,FALSE
-"DeBerry, Lois M.",D,91,106,House,FALSE
-"Dennis, Vance",R,71,106,House,FALSE
-"Dunn, Bill",R,16,106,House,FALSE
-"Eldridge, Jimmy A.",R,73,106,House,FALSE
-"Evans, Joshua G.",R,66,106,House,FALSE
-"Faulkner, Chad",R,36,106,House,FALSE
-"Favors, JoAnne",D,29,106,House,FALSE
-"Ferguson, Dennis",D,32,106,House,FALSE
-"Fincher, Henry",D,42,106,House,FALSE
-"Fitzhugh, Craig",D,82,106,House,FALSE
-"Floyd, Richard",R,27,106,House,FALSE
-"Ford, Dale",R,6,106,House,FALSE
-"Fraley, George W.",D,39,106,House,FALSE
-"Gilmore, Brenda",D,54,106,House,FALSE
-"Hackworth, Jim",D,33,106,House,FALSE
-"Halford, Curtis",R,79,106,House,FALSE
-"Hardaway, G. A.",D,92,106,House,FALSE
-"Harmon, Bill W.",D,37,106,House,FALSE
-"Harrison, Michael",R,9,106,House,FALSE
-"Harwell, Beth",R,56,106,House,FALSE
-"Hawk, David",R,5,106,House,FALSE
-"Haynes, Ryan A.",R,14,106,House,FALSE
-"Hensley, Joey",R,70,106,House,FALSE
-"Hill, Matthew",R,7,106,House,FALSE
-"Johnson, Curtis G.",R,68,106,House,FALSE
-"Johnson, Phillip",R,78,106,House,FALSE
-"Jones, Sherry",D,59,106,House,FALSE
-"Jones, Ulysses, Jr.",D,98,106,House,FALSE
-"Kernell, Mike",D,93,106,House,FALSE
-"Litz, John",D,10,106,House,FALSE
-"Lollar, Ron",R,99,106,House,FALSE
-"Lundberg, Jon",R,1,106,House,FALSE
-"Lynn, Susan M.",R,57,106,House,FALSE
-"Maddox, Mark L.",D,76,106,House,FALSE
-"Maggart, Debra Young",R,45,106,House,FALSE
-"Marsh, Pat",R,62,106,House,FALSE
-"Matheny, Judd",R,47,106,House,FALSE
-"Matlock, Jimmy",R,21,106,House,FALSE
-"McCord, Joe",R,8,106,House,FALSE
-"McCormick, Gerald",R,26,106,House,FALSE
-"McDaniel, Steve",R,72,106,House,FALSE
-"McDonald, Michael Ray",D,44,106,House,FALSE
-"McManus, Steve",R,96,106,House,FALSE
-"Miller, Larry J.",D,88,106,House,FALSE
-"Montgomery, Richard",R,12,106,House,FALSE
-"Moore, Gary W.",D,50,106,House,FALSE
-"Mumpower, Jason",R,3,106,House,FALSE
-"Naifeh, Jimmy",D,81,106,House,FALSE
-"Niceley, Frank S.",R,17,106,House,FALSE
-"Odom, Gary",D,55,106,House,FALSE
-"Pitts, Joe",D,67,106,House,FALSE
-"Pruitt, Mary",D,58,106,House,FALSE
-"Ramsey, Bob",R,20,106,House,FALSE
-"Rich, Barrett",R,94,106,House,FALSE
-"Richardson, Jeanne",D,89,106,House,FALSE
-"Roach, Dennis E.",R,35,106,House,FALSE
-"Sargent, Charles Michael",R,61,106,House,FALSE
-"Shaw, Johnny",D,80,106,House,FALSE
-"Shepard, David",D,69,106,House,FALSE
-"Shipley, Tony",R,2,106,House,FALSE
-"Sontany, Janis Baird",D,53,106,House,FALSE
-"Stewart, Mike",D,52,106,House,FALSE
-"Swafford, Eric H.",R,25,106,House,FALSE
-"Tidwell, John C.",D,74,106,House,FALSE
-"Tindell, Harry J.",D,13,106,House,FALSE
-"Todd, Curry",R,95,106,House,FALSE
-"Towns, Joe, Jr.",D,84,106,House,FALSE
-"Turner, Johnnie",D,85,106,House,FALSE
-"Turner, Mike",D,51,106,House,FALSE
-"Watson, Eric",R,22,106,House,FALSE
-"Weaver, Terri Lynn",R,40,106,House,FALSE
-"West, Ben , Jr.",D,60,106,House,FALSE
-"Williams, Kent",R,4,106,House,TRUE
-"Windle, John Mark",D,41,106,House,FALSE
-"Winningham, Les",D,38,106,House,FALSE
-"Yokley, Eddie",D,11,106,House,FALSE
-"Armstrong, Joe E.",D,15,105,House,FALSE
-"Baird, William",R,36,105,House,FALSE
-"Bass, Eddie",D,65,105,House,FALSE
-"Bell, Mike",R,23,105,House,FALSE
-"Bibb, Robert",D,66,105,House,FALSE
-"Bone, Stratton",D,46,105,House,FALSE
-"Borchert, Willie Butch",D,75,105,House,FALSE
-"Briley, Rob",D,52,105,House,FALSE
-"Brooks, Harry",R,19,105,House,FALSE
-"Brooks, Kevin",R,24,105,House,FALSE
-"Brown, Tommie F.",D,28,105,House,FALSE
-"Buck, Frank",D,40,105,House,FALSE
-"Camper, Karen D.",D,87,105,House,FALSE
-"Campfield, Stacey",R,18,105,House,FALSE
-"Casada, Glen",R,63,105,House,FALSE
-"Cobb, Curt.",D,62,105,House,FALSE
-"Cobb, Jim",R,31,105,House,FALSE
-"Coleman, Kent",D,49,105,House,FALSE
-"Coley, Jim",R,97,105,House,FALSE
-"Cooper, Barbara",D,86,105,House,FALSE
-"Crider, Chris",R,79,105,House,FALSE
-"Curtiss, Charles",D,43,105,House,FALSE
-"Dean, Vince",R,30,105,House,FALSE
-"DeBerry, John J., Jr.",D,90,105,House,FALSE
-"DeBerry, Lois M.",D,91,105,House,FALSE
-"DuBois, Tom",R,64,105,House,FALSE
-"Dunn, Bill",R,16,105,House,FALSE
-"Eldridge, Jimmy A.",R,73,105,House,FALSE
-"Favors, JoAnne",D,29,105,House,FALSE
-"Ferguson, Dennis",D,32,105,House,FALSE
-"Fincher, Henry",D,42,105,House,FALSE
-"Fitzhugh, Craig",D,82,105,House,FALSE
-"Floyd, Richard",R,27,105,House,FALSE
-"Ford, Dale",R,6,105,House,FALSE
-"Fraley, George W.",D,39,105,House,FALSE
-"Gilmore, Brenda",D,54,105,House,FALSE
-"Gresham, Dolores",R,94,105,House,FALSE
-"Hackworth, Jim",D,33,105,House,FALSE
-"Hardaway, G. A.",D,92,105,House,FALSE
-"Harmon, Bill W.",D,37,105,House,FALSE
-"Harrison, Michael",R,9,105,House,FALSE
-"Harwell, Beth",R,56,105,House,FALSE
-"Hawk, David",R,5,105,House,FALSE
-"Hensley, Joey",R,70,105,House,FALSE
-"Hill, Matthew",R,7,105,House,FALSE
-"Hood, John",D,48,105,House,FALSE
-"Johnson, Curtis G.",R,68,105,House,FALSE
-"Johnson, Phillip",R,78,105,House,FALSE
-"Jones, Sherry",D,59,105,House,FALSE
-"Jones, Ulysses, Jr.",D,98,105,House,FALSE
-"Kelsey, Brian K.",R,83,105,House,FALSE
-"Kernell, Mike",D,93,105,House,FALSE
-"Litz, John",D,10,105,House,FALSE
-"Lollar, Ron",R,99,105,House,FALSE
-"Lundberg, Jon",R,1,105,House,FALSE
-"Lynn, Susan M.",R,57,105,House,FALSE
-"Maddox, Mark L.",D,76,105,House,FALSE
-"Maggart, Debra Young",R,45,105,House,FALSE
-"Matheny, Judd",R,47,105,House,FALSE
-"Matlock, Jimmy",R,21,105,House,FALSE
-"McCord, Joe",R,8,105,House,FALSE
-"McCormick, Gerald",R,26,105,House,FALSE
-"McDaniel, Steve",R,72,105,House,FALSE
-"McDonald, Michael Ray",D,44,105,House,FALSE
-"McManus, Steve",R,96,105,House,FALSE
-"Miller, Larry J.",D,88,105,House,FALSE
-"Montgomery, Richard",R,12,105,House,FALSE
-"Moore, Gary W.",D,50,105,House,FALSE
-"Mumpower, Jason",R,3,105,House,FALSE
-"Naifeh, Jimmy",D,81,105,House,TRUE
-"Niceley, Frank S.",R,17,105,House,FALSE
-"Odom, Gary",D,55,105,House,FALSE
-"Overbey, Doug",R,20,105,House,FALSE
-"Pinion, Phillip",D,77,105,House,FALSE
-"Pitts, Joe",D,67,105,House,FALSE
-"Pruitt, Mary",D,58,105,House,FALSE
-"Richardson, Jeanne",D,89,105,House,FALSE
-"Rinks, Randy",D,71,105,House,FALSE
-"Roach, Dennis E.",R,35,105,House,FALSE
-"Rowland, Donna",R,34,105,House,FALSE
-"Sargent, Charles Michael",R,61,105,House,FALSE
-"Shaw, Johnny",D,80,105,House,FALSE
-"Shepard, David",D,69,105,House,FALSE
-"Sontany, Janis Baird",D,53,105,House,FALSE
-"Strader, Park M",R,14,105,House,FALSE
-"Swafford, Eric H.",R,25,105,House,FALSE
-"Tidwell, John C.",D,74,105,House,FALSE
-"Tindell, Harry J.",D,13,105,House,FALSE
-"Todd, Curry",R,95,105,House,FALSE
-"Towns, Joe, Jr.",D,84,105,House,FALSE
-"Turner, Larry",D,85,105,House,FALSE
-"Turner, Mike",D,51,105,House,FALSE
-"Vaughn, Nathan",D,2,105,House,FALSE
-"Watson, Eric",R,22,105,House,FALSE
-"West, Ben, Jr.",D,60,105,House,FALSE
-"Williams, Kent",R,4,105,House,FALSE
-"Windle, John Mark",D,41,105,House,FALSE
-"Winningham, Les",D,38,105,House,FALSE
-"Yokley, Eddie",D,11,105,House,FALSE
-"Armstrong, Joe E.",D,15,104,House,FALSE
-"Baird, William",R,36,104,House,FALSE
-"Bone, Stratton",D,46,104,House,FALSE
-"Borchert, Willie Butch",D,75,104,House,FALSE
-"Briley, Rob",D,52,104,House,FALSE
-"Brooks, Harry",R,19,104,House,FALSE
-"Brooks, Henri E.",D,92,104,House,FALSE
-"Brown, Tommie F.",D,28,104,House,FALSE
-"Buck, Frank",D,40,104,House,FALSE
-"Bunch, Dewayne",R,24,104,House,FALSE
-"Campfield, Stacey",R,18,104,House,FALSE
-"Casada, Glen",R,63,104,House,FALSE
-"Clem, Chris",R,27,104,House,FALSE
-"Cobb, Curt.",D,62,104,House,FALSE
-"Cochran, Jerome",R,4,104,House,FALSE
-"Coleman, Kent",D,49,104,House,FALSE
-"Cooper, Barbara",D,86,104,House,FALSE
-"Crider, Chris",R,79,104,House,FALSE
-"Curtiss, Charles",D,43,104,House,FALSE
-"Davidson, Eugene E.",D,66,104,House,FALSE
-"Davis, David",R,6,104,House,FALSE
-"Dean, Vince",R,30,104,House,FALSE
-"DeBerry, John J., Jr.",D,90,104,House,FALSE
-"DeBerry, Lois M.",D,91,104,House,FALSE
-"DuBois, Tom",R,64,104,House,FALSE
-"Dunn, Bill",R,16,104,House,FALSE
-"Eldridge, Jimmy A.",R,73,104,House,FALSE
-"Favors, JoAnne",D,29,104,House,FALSE
-"Ferguson, Dennis",D,32,104,House,FALSE
-"Fitzhugh, Craig",D,82,104,House,FALSE
-"Fowlkes, Joe F.",D,65,104,House,FALSE
-"Fraley, George W.",D,39,104,House,FALSE
-"Gresham, Dolores",R,94,104,House,FALSE
-"Hackworth, Jim",D,33,104,House,FALSE
-"Hargett, Tre",R,97,104,House,FALSE
-"Hargrove, Jere L.",D,42,104,House,FALSE
-"Harmon, Bill W.",D,37,104,House,FALSE
-"Harrison, Michael",R,9,104,House,FALSE
-"Harwell, Beth",R,56,104,House,FALSE
-"Hawk, David",R,5,104,House,FALSE
-"Hensley, Joey",R,70,104,House,FALSE
-"Hill, Matthew",R,7,104,House,FALSE
-"Hood, John",D,48,104,House,FALSE
-"Johnson, Curtis G.",R,68,104,House,FALSE
-"Johnson, Phillip",R,78,104,House,FALSE
-"Jones, Sherry",D,59,104,House,FALSE
-"Jones, Ulysses, Jr.",D,98,104,House,FALSE
-"Kelsey, Brian K.",R,83,104,House,FALSE
-"Kernell, Mike",D,93,104,House,FALSE
-"Langster, Edith Taylor",D,54,104,House,FALSE
-"Litz, John",D,10,104,House,FALSE
-"Lynn, Susan M.",R,57,104,House,FALSE
-"Maddox, Mark L.",D,76,104,House,FALSE
-"Maggart, Debra Young",R,45,104,House,FALSE
-"Marrero, Beverly",D,89,104,House,FALSE
-"Matheny, Judd",R,47,104,House,FALSE
-"McCord, Joe",R,8,104,House,FALSE
-"McCormick, Gerald",R,26,104,House,FALSE
-"McDaniel, Steve",R,72,104,House,FALSE
-"McDonald, Michael Ray",D,44,104,House,FALSE
-"McKee, Bob",R,23,104,House,FALSE
-"McMillan, Kim A.",D,67,104,House,FALSE
-"Miller, Larry J.",D,88,104,House,FALSE
-"Montgomery, Richard",R,12,104,House,FALSE
-"Moore, Gary W.",D,50,104,House,FALSE
-"Mumpower, Jason",R,3,104,House,FALSE
-"Naifeh, Jimmy",D,81,104,House,TRUE
-"Niceley, Frank S.",R,17,104,House,FALSE
-"Odom, Gary",D,55,104,House,FALSE
-"Overbey, Doug",R,20,104,House,FALSE
-"Pinion, Phillip",D,77,104,House,FALSE
-"Pleasant, W. C.",R,99,104,House,FALSE
-"Pruitt, Mary",D,58,104,House,FALSE
-"Rinks, Randy",D,71,104,House,FALSE
-"Roach, Dennis E.",R,35,104,House,FALSE
-"Rowland, Donna",R,34,104,House,FALSE
-"Rowe, Gary",D,87,104,House,FALSE
-"Sargent, Charles Michael",R,61,104,House,FALSE
-"Shaw, Johnny",D,80,104,House,FALSE
-"Shepard, David",D,69,104,House,FALSE
-"Sontany, Janis Baird",D,53,104,House,FALSE
-"Stanley, Paul",R,96,104,House,FALSE
-"Strader, Park M",R,14,104,House,FALSE
-"Swafford, Eric H.",R,25,104,House,FALSE
-"Tidwell, John C.",D,74,104,House,FALSE
-"Tindell, Harry J.",D,13,104,House,FALSE
-"Todd, Curry",R,95,104,House,FALSE
-"Towns, Joe, Jr.",D,84,104,House,FALSE
-"Turner, Larry",D,85,104,House,FALSE
-"Turner, Mike",D,51,104,House,FALSE
-"Vaughn, Nathan",D,2,104,House,FALSE
-"Wampler, Harry W.",R,21,104,House,FALSE
-"Watson, Bo",R,31,104,House,FALSE
-"Watson, Eric",R,22,104,House,FALSE
-"West, Ben , Jr.",D,60,104,House,FALSE
-"Windle, John Mark",D,41,104,House,FALSE
-"Winningham, Les",D,38,104,House,FALSE
-"Yokley, Eddie",D,11,104,House,FALSE
-"Armstrong, Joe E.",D,15,103,House,FALSE
-"Baird, William",R,36,103,House,FALSE
-"Bittle, H. E.",R,14,103,House,FALSE
-"Black, Diane",R,45,103,House,FALSE
-"Bone, Stratton",D,46,103,House,FALSE
-"Borchert, Willie Butch",D,75,103,House,FALSE
-"Bowers, Kathryn I.",D,87,103,House,FALSE
-"Briley, Rob",D,52,103,House,FALSE
-"Brooks, Harry",R,19,103,House,FALSE
-"Brooks, Henri E.",D,92,103,House,FALSE
-"Brown, Tommie F.",D,28,103,House,FALSE
-"Buck, Frank",D,40,103,House,FALSE
-"Bunch, Dewayne",R,24,103,House,FALSE
-"Buttry, Steven",R,18,103,House,FALSE
-"Casada, Glen",R,63,103,House,FALSE
-"Clem, Chris",R,27,103,House,FALSE
-"Cobb, Curt.",D,62,103,House,FALSE
-"Cochran, Jerome",R,4,103,House,FALSE
-"Coleman, Kent",D,49,103,House,FALSE
-"Cooper, Barbara",D,86,103,House,FALSE
-"Crider, Chris",R,79,103,House,FALSE
-"Curtiss, Charles",D,43,103,House,FALSE
-"Davidson, Eugene E.",D,66,103,House,FALSE
-"Davis, David",R,6,103,House,FALSE
-"DeBerry, John J., Jr.",D,90,103,House,FALSE
-"DeBerry, Lois M.",D,91,103,House,FALSE
-"DuBois, Tom",R,64,103,House,FALSE
-"Dunn, Bill",R,16,103,House,FALSE
-"Eldridge, Jimmy A.",R,73,103,House,FALSE
-"Ferguson, Dennis",D,32,103,House,FALSE
-"Fitzhugh, Craig",D,82,103,House,FALSE
-"Fowlkes, Joe F.",D,65,103,House,FALSE
-"Fraley, George W.",D,39,103,House,FALSE
-"Garrett, Tim",D,50,103,House,FALSE
-"Godsey, Steve",R,1,103,House,FALSE
-"Gresham, Dolores",R,94,103,House,FALSE
-"Hackworth, Jim",D,33,103,House,FALSE
-"Hagood, Jamie",R,17,103,House,FALSE
-"Hargett, Tre",R,97,103,House,FALSE
-"Hargrove, Jere L.",D,42,103,House,FALSE
-"Harmon, Bill W.",D,37,103,House,FALSE
-"Harrison, Michael",R,9,103,House,FALSE
-"Harwell, Beth",R,56,103,House,FALSE
-"Hawk, David",R,5,103,House,FALSE
-"Head, Tommy",D,68,103,House,FALSE
-"Hensley, Joey",R,70,103,House,FALSE
-"Hood, John",D,48,103,House,FALSE
-"Johnson, Phillip",R,78,103,House,FALSE
-"Johnson, Russell",R,21,103,House,FALSE
-"Jones, Sherry",D,59,103,House,FALSE
-"Jones, Ulysses, Jr.",D,98,103,House,FALSE
-"Kent, Joe",R,83,103,House,FALSE
-"Kernell, Mike",D,93,103,House,FALSE
-"Langster, Edith Taylor",D,54,103,House,FALSE
-"Litz, John",D,10,103,House,FALSE
-"Lynn, Susan M.",R,57,103,House,FALSE
-"Marrero, Beverly",D,89,103,House,FALSE
-"Maddox, Mark L.",D,76,103,House,FALSE
-"Matheny, Judd",R,47,103,House,FALSE
-"McCord, Joe",R,8,103,House,FALSE
-"McDaniel, Steve",R,72,103,House,FALSE
-"McDonald, Michael Ray",D,44,103,House,FALSE
-"McKee, Bob",R,23,103,House,FALSE
-"McMillan, Kim A.",D,67,103,House,FALSE
-"Miller, Larry J.",D,88,103,House,FALSE
-"Montgomery, Richard",R,12,103,House,FALSE
-"Mumpower, Jason",R,3,103,House,FALSE
-"Naifeh, Jimmy",D,81,103,House,TRUE
-"Newton, J. Chris",R,22,103,House,FALSE
-"Odom, Gary",D,55,103,House,FALSE
-"Overbey, Doug",R,20,103,House,FALSE
-"Patton, Robert D.",R,7,103,House,FALSE
-"Pinion, Phillip",D,77,103,House,FALSE
-"Pleasant, W. C.",R,99,103,House,FALSE
-"Pruitt, Mary",D,58,103,House,FALSE
-"Rinks, Randy",D,71,103,House,FALSE
-"Roach, Dennis E.",R,35,103,House,FALSE
-"Rowland, Donna",R,34,103,House,FALSE
-"Sargent, Charles Michael",R,61,103,House,FALSE
-"Sharp, Jack",R,30,103,House,FALSE
-"Shaw, Johnny",D,80,103,House,FALSE
-"Shepard, David",D,69,103,House,FALSE
-"Sontany, Janis Baird",D,53,103,House,FALSE
-"Stanley, Paul",R,96,103,House,FALSE
-"Tidwell, John C.",D,74,103,House,FALSE
-"Tindell, Harry J.",D,13,103,House,FALSE
-"Todd, Curry",R,95,103,House,FALSE
-"Towns, Joe, Jr.",D,84,103,House,FALSE
-"Turner, Brenda K.",D,29,103,House,FALSE
-"Turner, Larry",D,85,103,House,FALSE
-"Turner, Mike",D,51,103,House,FALSE
-"Vaughn, Nathan",D,2,103,House,FALSE
-"Vincent, Jim",R,31,103,House,FALSE
-"Walker, Raymond",R,25,103,House,FALSE
-"West, Ben , Jr.",D,60,103,House,FALSE
-"Windle, John Mark",D,41,103,House,FALSE
-"Winningham, Les",D,38,103,House,FALSE
-"Wood, Bobby G.",R,26,103,House,FALSE
-"Yokley, Eddie",D,11,103,House,FALSE
-"Armstrong, Joe E.",D,15,102,House,FALSE
-"Arriola, John",D,53,102,House,FALSE
-"Baird, William",R,36,102,House,FALSE
-"Beavers, Mae",R,57,102,House,FALSE
-"Bittle, H. E.",R,14,102,House,FALSE
-"Black, Diane",R,45,102,House,FALSE
-"Bone, Stratton",D,46,102,House,FALSE
-"Bowers, Kathryn I.",D,87,102,House,FALSE
-"Boyer, Jim",R,19,102,House,FALSE
-"Briley, Rob",D,52,102,House,FALSE
-"Brooks, Henri E.",D,92,102,House,FALSE
-"Brown, Tommie F.",D,28,102,House,FALSE
-"Buck, Frank",D,40,102,House,FALSE
-"Bunch, Dewayne",R,24,102,House,FALSE
-"Buttry, Steven",R,18,102,House,FALSE
-"Caldwell, Gene",D,33,102,House,FALSE
-"Chumney, Carol",D,89,102,House,FALSE
-"Clem, Chris",R,27,102,House,FALSE
-"Cole, Ralph",R,4,102,House,FALSE
-"Cole, Ronnie M.",D,78,102,House,FALSE
-"Cooper, Barbara",D,86,102,House,FALSE
-"Curtiss, Charles",D,43,102,House,FALSE
-"Davidson, Eugene E.",D,66,102,House,FALSE
-"Davis, David",R,6,102,House,FALSE
-"Davis, Ronnie E.",R,11,102,House,FALSE
-"DeBerry, John J., Jr.",D,90,102,House,FALSE
-"DeBerry, Lois M.",D,91,102,House,FALSE
-"Dunn, Bill",R,16,102,House,FALSE
-"Ferguson, Dennis",D,32,102,House,FALSE
-"Fitzhugh, Craig",D,82,102,House,FALSE
-"Ford, Stancil",R,10,102,House,FALSE
-"Fowlkes, Joe F.",D,65,102,House,FALSE
-"Fraley, George W.",D,39,102,House,FALSE
-"Garrett, Tim",D,50,102,House,FALSE
-"Givens, Ken",D,9,102,House,FALSE
-"Godsey, Steve",R,1,102,House,FALSE
-"Goins, Mark K.",R,34,102,House,FALSE
-"Hagood, Jamie",R,17,102,House,FALSE
-"Hargett, Tre",R,97,102,House,FALSE
-"Hargrove, Jere L.",D,42,102,House,FALSE
-"Harwell, Beth",R,56,102,House,FALSE
-"Head, Tommy",D,68,102,House,FALSE
-"Hood, John",D,48,102,House,FALSE
-"Johnson, Russell",R,21,102,House,FALSE
-"Jones, Sherry",D,59,102,House,FALSE
-"Jones, Ulysses, Jr.",D,98,102,House,FALSE
-"Kent, Joe",R,83,102,House,FALSE
-"Kernell, Mike",D,93,102,House,FALSE
-"Kisber, Matt",D,73,102,House,FALSE
-"Langster, Edith Taylor",D,54,102,House,FALSE
-"Lewis, Doyle, Jr.",D,47,102,House,FALSE
-"Locke, Michael",R,2,102,House,FALSE
-"Maddox, Mark L.",D,76,102,House,FALSE
-"McCord, Joe",R,8,102,House,FALSE
-"McDaniel, Steve",R,72,102,House,FALSE
-"McDonald, Michael Ray",D,44,102,House,FALSE
-"McKee, Bob",R,23,102,House,FALSE
-"McMillan, Kim A.",D,67,102,House,FALSE
-"Miller, Larry J.",D,88,102,House,FALSE
-"Montgomery, Richard",R,12,102,House,FALSE
-"Mumpower, Jason",R,3,102,House,FALSE
-"Naifeh, Jimmy",D,81,102,House,TRUE
-"Newton, J. Chris",R,22,102,House,FALSE
-"Odom, Gary",D,55,102,House,FALSE
-"Overbey, Doug",R,20,102,House,FALSE
-"Patton, Robert D.",R,7,102,House,FALSE
-"Phelan, Paul E.",D,79,102,House,FALSE
-"Phillips, Clarence W.",D,62,102,House,FALSE
-"Pinion, Phillip",D,77,102,House,FALSE
-"Pleasant, W. C.",R,99,102,House,FALSE
-"Pruitt, Mary",D,58,102,House,FALSE
-"Rhinehart, Shelby A.",D,37,102,House,FALSE
-"Ridgeway, L. Don",D,75,102,House,FALSE
-"Rinks, Randy",D,71,102,House,FALSE
-"Roach, Dennis E.",R,35,102,House,FALSE
-"Rowland, Donna",R,49,102,House,FALSE
-"Sands, Bobby",D,64,102,House,FALSE
-"Sargent, Charles Michael",R,61,102,House,FALSE
-"Scroggs, Larry",R,94,102,House,FALSE
-"Sharp, Jack",R,30,102,House,FALSE
-"Shaw, Johnny",D,80,102,House,FALSE
-"Shepard, David",D,69,102,House,FALSE
-"Stanley, Paul",R,96,102,House,FALSE
-"Tidwell, John C.",D,74,102,House,FALSE
-"Tindell, Harry J.",D,13,102,House,FALSE
-"Todd, Curry",R,95,102,House,FALSE
-"Towns, Joe, Jr.",D,84,102,House,FALSE
-"Turner, Brenda K.",D,29,102,House,FALSE
-"Turner, Larry",D,85,102,House,FALSE
-"Turner, Mike",D,51,102,House,FALSE
-"Vincent, Jim",R,31,102,House,FALSE
-"Walker, Raymond",R,25,102,House,FALSE
-"West, Ben , Jr.",D,60,102,House,FALSE
-"Westmoreland, Keith",R,2,102,House,FALSE
-"White, John",D,70,102,House,FALSE
-"Whitson, Zane C.",R,5,102,House,FALSE
-"Williams, Mike",D,63,102,House,FALSE
-"Windle, John Mark",D,41,102,House,FALSE
-"Winningham, Les",D,38,102,House,FALSE
-"Wood, Bobby G.",R,26,102,House,FALSE
 "Armstrong, Joe E.",D,15,101,House,FALSE
 "Arriola, John",D,53,101,House,FALSE
 "Baird, William",R,36,101,House,FALSE
@@ -1185,234 +99,403 @@ Name,Party,District,Session,Chamber,Speaker
 "Windle, John Mark",D,41,101,House,FALSE
 "Winningham, Les",D,38,101,House,FALSE
 "Wood, Bobby G.",R,26,101,House,FALSE
-"Akbari, Raumesh",D,29,112,Senate,FALSE
-"Bailey, Paul",R,15,112,Senate,FALSE
-"Bell, Mike",R,9,112,Senate,FALSE
-"Bowling, Janice",R,16,112,Senate,FALSE
-"Briggs, Richard",R,7,112,Senate,FALSE
-"Campbell, Heidi",D,20,112,Senate,FALSE
-"Crowe, Rusty",R,3,112,Senate,FALSE
-"Gardenhire, Todd",R,10,112,Senate,FALSE
-"Gilmore, Brenda",D,19,112,Senate,FALSE
-"Haile, Ferrell",R,18,112,Senate,FALSE
-"Hensley, Joey",R,28,112,Senate,FALSE
-"Jackson, Ed",R,27,112,Senate,FALSE
-"Johnson, Jack",R,23,112,Senate,FALSE
-"Kelsey, Brian K.",R,31,112,Senate,FALSE
-"Kyle, Sara",D,30,112,Senate,FALSE
-"Lundberg, Jon",R,4,112,Senate,FALSE
-"Massey, Becky Duncan",R,6,112,Senate,FALSE
-"McNally, Randy",R,5,112,Senate,TRUE
-"Niceley, Frank S.",R,8,112,Senate,FALSE
-"Pody, Mark",R,17,112,Senate,FALSE
-"Powers, Bill",R,22,112,Senate,FALSE
-"Reeves, Shane",R,14,112,Senate,FALSE
-"Roberts, Kerry",R,25,112,Senate,FALSE
-"Robinson, Katrina",D,33,112,Senate,FALSE
-"Rose, Paul",R,32,112,Senate,FALSE
-"Southerland, Steve",R,1,112,Senate,FALSE
-"Stevens, John",R,24,112,Senate,FALSE
-"Swann, Art",R,2,112,Senate,FALSE
-"Walley, Page",R,26,112,Senate,FALSE
-"Watson, Bo",R,11,112,Senate,FALSE
-"White, Dawn",R,13,112,Senate,FALSE
-"Yager, Ken",R,12,112,Senate,FALSE
-"Yarbro, Jeff",D,21,112,Senate,FALSE
-"Akbari, Raumesh",D,29,111,Senate,FALSE
-"Bailey, Paul",R,15,111,Senate,FALSE
-"Bell, Mike",R,9,111,Senate,FALSE
-"Bowling, Janice",R,16,111,Senate,FALSE
-"Briggs, Richard",R,7,111,Senate,FALSE
-"Crowe, Rusty",R,3,111,Senate,FALSE
-"Dickerson, Steven",R,20,111,Senate,FALSE
-"Gardenhire, Todd",R,10,111,Senate,FALSE
-"Gilmore, Brenda",D,19,111,Senate,FALSE
-"Gresham, Dolores",R,26,111,Senate,FALSE
-"Haile, Ferrell",R,18,111,Senate,FALSE
-"Hensley, Joey",R,28,111,Senate,FALSE
-"Jackson, Ed",R,27,111,Senate,FALSE
-"Johnson, Jack",R,23,111,Senate,FALSE
-"Kelsey, Brian K.",R,31,111,Senate,FALSE
-"Kyle, Sara",D,30,111,Senate,FALSE
-"Lundberg, Jon",R,4,111,Senate,FALSE
-"Massey, Becky Duncan",R,6,111,Senate,FALSE
-"McNally, Randy",R,5,111,Senate,TRUE
-"Niceley, Frank S.",R,8,111,Senate,FALSE
-"Pody, Mark",R,17,111,Senate,FALSE
-"Powers, Bill",R,22,111,Senate,FALSE
-"Reeves, Shane",R,14,111,Senate,FALSE
-"Roberts, Kerry",R,25,111,Senate,FALSE
-"Robinson, Katrina",D,33,111,Senate,FALSE
-"Rose, Paul",R,32,111,Senate,FALSE
-"Southerland, Steve",R,1,111,Senate,FALSE
-"Stevens, John",R,24,111,Senate,FALSE
-"Swann, Art",R,2,111,Senate,FALSE
-"Watson, Bo",R,11,111,Senate,FALSE
-"White, Dawn",R,13,111,Senate,FALSE
-"Yager, Ken",R,12,111,Senate,FALSE
-"Yarbro, Jeff",D,21,111,Senate,FALSE
-"Bailey, Paul",R,15,110,Senate,FALSE
-"Bell, Mike",R,9,110,Senate,FALSE
-"Bowling, Janice",R,16,110,Senate,FALSE
-"Briggs, Richard",R,7,110,Senate,FALSE
-"Crowe, Rusty",R,3,110,Senate,FALSE
-"Dickerson, Steven",R,20,110,Senate,FALSE
-"Gardenhire, Todd",R,10,110,Senate,FALSE
-"Green, Mark",R,22,110,Senate,FALSE
-"Gresham, Dolores",R,26,110,Senate,FALSE
-"Haile, Ferrell",R,18,110,Senate,FALSE
-"Harper, Thelma",D,19,110,Senate,FALSE
-"Hensley, Joey",R,28,110,Senate,FALSE
-"Jackson, Ed",R,27,110,Senate,FALSE
-"Johnson, Jack",R,23,110,Senate,FALSE
-"Kelsey, Brian K.",R,31,110,Senate,FALSE
-"Kyle, Sara",D,30,110,Senate,FALSE
-"Lundberg, Jon",R,4,110,Senate,FALSE
-"Massey, Becky Duncan",R,6,110,Senate,FALSE
-"McNally, Randy",R,5,110,Senate,TRUE
-"Niceley, Frank S.",R,8,110,Senate,FALSE
-"Norris, Mark",R,32,110,Senate,FALSE
-"Pody, Mark",R,17,110,Senate,FALSE
-"Reeves, Shane",R,14,110,Senate,FALSE
-"Roberts, Kerry",R,25,110,Senate,FALSE
-"Southerland, Steve",R,1,110,Senate,FALSE
-"Stevens, John",R,24,110,Senate,FALSE
-"Swann, Art",R,2,110,Senate,FALSE
-"Tate, Reginald",D,33,110,Senate,FALSE
-"Watson, Bo",R,11,110,Senate,FALSE
-"Yager, Ken",R,12,110,Senate,FALSE
-"Yarbro, Jeff",D,21,110,Senate,FALSE
-"Bailey, Paul",R,15,109,Senate,FALSE
-"Beavers, Mae",R,17,109,Senate,FALSE
-"Bell, Mike",R,9,109,Senate,FALSE
-"Bowling, Janice",R,16,109,Senate,FALSE
-"Briggs, Richard",R,7,109,Senate,FALSE
-"Crowe, Rusty",R,3,109,Senate,FALSE
-"Dickerson, Steven",R,20,109,Senate,FALSE
-"Gardenhire, Todd",R,10,109,Senate,FALSE
-"Green, Mark",R,22,109,Senate,FALSE
-"Gresham, Dolores",R,26,109,Senate,FALSE
-"Haile, Ferrell",R,18,109,Senate,FALSE
-"Harper, Thelma",D,19,109,Senate,FALSE
-"Harris, Lee",D,29,109,Senate,FALSE
-"Hensley, Joey",R,28,109,Senate,FALSE
-"Jackson, Ed",R,27,109,Senate,FALSE
-"Johnson, Jack",R,23,109,Senate,FALSE
-"Kelsey, Brian K.",R,31,109,Senate,FALSE
-"Ketron, Bill",R,13,109,Senate,FALSE
-"Kyle, Sara",D,30,109,Senate,FALSE
-"Massey, Becky Duncan",R,6,109,Senate,FALSE
-"McNally, Randy",R,5,109,Senate,FALSE
-"Niceley, Frank S.",R,8,109,Senate,FALSE
-"Norris, Mark",R,32,109,Senate,FALSE
-"Overbey, Doug",R,2,109,Senate,FALSE
-"Ramsey, Ron",R,4,109,Senate,TRUE
-"Roberts, Kerry",R,25,109,Senate,FALSE
-"Southerland, Steve",R,1,109,Senate,FALSE
-"Stevens, John",R,24,109,Senate,FALSE
-"Tate, Reginald",D,33,109,Senate,FALSE
-"Tracy, Jim",R,14,109,Senate,FALSE
-"Watson, Bo",R,11,109,Senate,FALSE
-"Yager, Ken",R,12,109,Senate,FALSE
-"Yarbro, Jeff",D,21,109,Senate,FALSE
-"Beavers, Mae",R,17,108,Senate,FALSE
-"Bell, Mike",R,9,108,Senate,FALSE
-"Bowling, Janice",R,16,108,Senate,FALSE
-"Burks, Charlotte",D,15,108,Senate,FALSE
-"Campfield, Stacey",R,7,108,Senate,FALSE
-"Crowe, Rusty",R,3,108,Senate,FALSE
-"Dickerson, Steven",R,20,108,Senate,FALSE
-"Finney, Lowe",D,27,108,Senate,FALSE
-"Ford, Ophelia",D,29,108,Senate,FALSE
-"Gardenhire, Todd",R,10,108,Senate,FALSE
-"Green, Mark",R,22,108,Senate,FALSE
-"Gresham, Dolores",R,26,108,Senate,FALSE
-"Haile, Ferrell",R,18,108,Senate,FALSE
-"Harper, Thelma",D,19,108,Senate,FALSE
-"Henry, Douglas",D,21,108,Senate,FALSE
-"Hensley, Joey",R,28,108,Senate,FALSE
-"Johnson, Jack",R,23,108,Senate,FALSE
-"Kelsey, Brian K.",R,31,108,Senate,FALSE
-"Ketron, Bill",R,13,108,Senate,FALSE
-"Massey, Becky Duncan",R,6,108,Senate,FALSE
-"McNally, Randy",R,5,108,Senate,FALSE
-"Niceley, Frank S.",R,8,108,Senate,FALSE
-"Norris, Mark",R,32,108,Senate,FALSE
-"Overbey, Doug",R,2,108,Senate,FALSE
-"Ramsey, Ron",R,4,108,Senate,TRUE
-"Southerland, Steve",R,1,108,Senate,FALSE
-"Stevens, John",R,24,108,Senate,FALSE
-"Summerville, Jim",I,25,108,Senate,FALSE
-"Tate, Reginald",D,33,108,Senate,FALSE
-"Tracy, Jim",R,14,108,Senate,FALSE
-"Watson, Bo",R,11,108,Senate,FALSE
-"Yager, Ken",R,12,108,Senate,FALSE
-"Barnes, Tim",D,22,107,Senate,FALSE
-"Beavers, Mae",R,17,107,Senate,FALSE
-"Bell, Mike",R,9,107,Senate,FALSE
-"Berke, Andy",D,10,107,Senate,FALSE
-"Burks, Charlotte",D,15,107,Senate,FALSE
-"Campfield, Stacey",R,7,107,Senate,FALSE
-"Crowe, Rusty",R,3,107,Senate,FALSE
-"Faulk, Mike",R,4,107,Senate,FALSE
-"Finney, Lowe",D,27,107,Senate,FALSE
-"Ford, Ophelia",D,29,107,Senate,FALSE
-"Gresham, Dolores",R,26,107,Senate,FALSE
-"Harper, Thelma",D,19,107,Senate,FALSE
-"Haynes, Joe M.",D,20,107,Senate,FALSE
-"Henry, Douglas",D,21,107,Senate,FALSE
-"Herron, Roy",D,24,107,Senate,FALSE
-"Johnson, Jack",R,23,107,Senate,FALSE
-"Kelsey, Brian K.",R,31,107,Senate,FALSE
-"Ketron, Bill",R,13,107,Senate,FALSE
-"Kyle, Jim",D,28,107,Senate,FALSE
-"Marrero, Beverly",D,30,107,Senate,FALSE
-"Massey, Becky Duncan",R,6,107,Senate,FALSE
-"McNally, Randy",R,5,107,Senate,FALSE
-"Norris, Mark",R,32,107,Senate,FALSE
-"Overbey, Doug",R,8,107,Senate,FALSE
-"Ramsey, Ron",R,2,107,Senate,TRUE
-"Roberts, Kerry",R,18,107,Senate,FALSE
-"Southerland, Steve",R,1,107,Senate,FALSE
-"Stewart, Eric",D,14,107,Senate,FALSE
-"Summerville, Jim",R,25,107,Senate,FALSE
-"Tate, Reginald",D,33,107,Senate,FALSE
-"Tracy, Jim",R,16,107,Senate,FALSE
-"Watson, Bo",R,11,107,Senate,FALSE
-"Yager, Ken",R,12,107,Senate,FALSE
-"Barnes, Tim",D,22,106,Senate,FALSE
-"Beavers, Mae",R,17,106,Senate,FALSE
-"Berke, Andy",D,10,106,Senate,FALSE
-"Black, Diane",R,18,106,Senate,FALSE
-"Bunch, Dewayne",R,9,106,Senate,FALSE
-"Burks, Charlotte",D,15,106,Senate,FALSE
-"Crowe, Rusty",R,3,106,Senate,FALSE
-"Faulk, Mike",R,4,106,Senate,FALSE
-"Finney, Lowe",D,27,106,Senate,FALSE
-"Ford, Ophelia",D,29,106,Senate,FALSE
-"Gresham, Dolores",R,26,106,Senate,FALSE
-"Harper, Thelma",D,19,106,Senate,FALSE
-"Haynes, Joe M.",D,20,106,Senate,FALSE
-"Henry, Douglas",D,21,106,Senate,FALSE
-"Herron, Roy",D,24,106,Senate,FALSE
-"Hill, Steve",R,7,106,Senate,FALSE
-"Jackson, Doug",D,25,106,Senate,FALSE
-"Johnson, Jack",R,23,106,Senate,FALSE
-"Kelsey, Brian K.",R,31,106,Senate,FALSE
-"Ketron, Bill",R,13,106,Senate,FALSE
-"Kyle, Jim",D,28,106,Senate,FALSE
-"Marrero, Beverly",D,30,106,Senate,FALSE
-"McNally, Randy",R,5,106,Senate,FALSE
-"Norris, Mark",R,32,106,Senate,FALSE
-"Overbey, Doug",R,8,106,Senate,FALSE
-"Ramsey, Ron",R,2,106,Senate,TRUE
-"Southerland, Steve",R,1,106,Senate,FALSE
-"Stewart, Eric",D,14,106,Senate,FALSE
-"Tate, Reginald",D,33,106,Senate,FALSE
-"Tracy, Jim",R,16,106,Senate,FALSE
-"Watson, Bo",R,11,106,Senate,FALSE
-"Woodson, Jamie",R,6,106,Senate,FALSE
-"Yager, Ken",R,12,106,Senate,FALSE
+"Armstrong, Joe E.",D,15,102,House,FALSE
+"Arriola, John",D,53,102,House,FALSE
+"Baird, William",R,36,102,House,FALSE
+"Beavers, Mae",R,57,102,House,FALSE
+"Bittle, H. E.",R,14,102,House,FALSE
+"Black, Diane",R,45,102,House,FALSE
+"Bone, Stratton",D,46,102,House,FALSE
+"Bowers, Kathryn I.",D,87,102,House,FALSE
+"Boyer, Jim",R,19,102,House,FALSE
+"Briley, Rob",D,52,102,House,FALSE
+"Brooks, Henri E.",D,92,102,House,FALSE
+"Brown, Tommie F.",D,28,102,House,FALSE
+"Buck, Frank",D,40,102,House,FALSE
+"Bunch, Dewayne",R,24,102,House,FALSE
+"Buttry, Steven",R,18,102,House,FALSE
+"Caldwell, Gene",D,33,102,House,FALSE
+"Chumney, Carol",D,89,102,House,FALSE
+"Clem, Chris",R,27,102,House,FALSE
+"Cole, Ralph",R,4,102,House,FALSE
+"Cole, Ronnie M.",D,78,102,House,FALSE
+"Cooper, Barbara",D,86,102,House,FALSE
+"Curtiss, Charles",D,43,102,House,FALSE
+"Davidson, Eugene E.",D,66,102,House,FALSE
+"Davis, David",R,6,102,House,FALSE
+"Davis, Ronnie E.",R,11,102,House,FALSE
+"DeBerry, John J., Jr.",D,90,102,House,FALSE
+"DeBerry, Lois M.",D,91,102,House,FALSE
+"Dunn, Bill",R,16,102,House,FALSE
+"Ferguson, Dennis",D,32,102,House,FALSE
+"Fitzhugh, Craig",D,82,102,House,FALSE
+"Ford, Stancil",R,10,102,House,FALSE
+"Fowlkes, Joe F.",D,65,102,House,FALSE
+"Fraley, George W.",D,39,102,House,FALSE
+"Garrett, Tim",D,50,102,House,FALSE
+"Givens, Ken",D,9,102,House,FALSE
+"Godsey, Steve",R,1,102,House,FALSE
+"Goins, Mark K.",R,34,102,House,FALSE
+"Hagood, Jamie",R,17,102,House,FALSE
+"Hargett, Tre",R,97,102,House,FALSE
+"Hargrove, Jere L.",D,42,102,House,FALSE
+"Harwell, Beth",R,56,102,House,FALSE
+"Head, Tommy",D,68,102,House,FALSE
+"Hood, John",D,48,102,House,FALSE
+"Johnson, Russell",R,21,102,House,FALSE
+"Jones, Sherry",D,59,102,House,FALSE
+"Jones, Ulysses, Jr.",D,98,102,House,FALSE
+"Kent, Joe",R,83,102,House,FALSE
+"Kernell, Mike",D,93,102,House,FALSE
+"Kisber, Matt",D,73,102,House,FALSE
+"Langster, Edith Taylor",D,54,102,House,FALSE
+"Lewis, Doyle, Jr.",D,47,102,House,FALSE
+"Locke, Michael",R,2,102,House,FALSE
+"Maddox, Mark L.",D,76,102,House,FALSE
+"McCord, Joe",R,8,102,House,FALSE
+"McDaniel, Steve",R,72,102,House,FALSE
+"McDonald, Michael Ray",D,44,102,House,FALSE
+"McKee, Bob",R,23,102,House,FALSE
+"McMillan, Kim A.",D,67,102,House,FALSE
+"Miller, Larry J.",D,88,102,House,FALSE
+"Montgomery, Richard",R,12,102,House,FALSE
+"Mumpower, Jason",R,3,102,House,FALSE
+"Naifeh, Jimmy",D,81,102,House,TRUE
+"Newton, J. Chris",R,22,102,House,FALSE
+"Odom, Gary",D,55,102,House,FALSE
+"Overbey, Doug",R,20,102,House,FALSE
+"Patton, Robert D.",R,7,102,House,FALSE
+"Phelan, Paul E.",D,79,102,House,FALSE
+"Phillips, Clarence W.",D,62,102,House,FALSE
+"Pinion, Phillip",D,77,102,House,FALSE
+"Pleasant, W. C.",R,99,102,House,FALSE
+"Pruitt, Mary",D,58,102,House,FALSE
+"Rhinehart, Shelby A.",D,37,102,House,FALSE
+"Ridgeway, L. Don",D,75,102,House,FALSE
+"Rinks, Randy",D,71,102,House,FALSE
+"Roach, Dennis E.",R,35,102,House,FALSE
+"Rowland, Donna",R,49,102,House,FALSE
+"Sands, Bobby",D,64,102,House,FALSE
+"Sargent, Charles Michael",R,61,102,House,FALSE
+"Scroggs, Larry",R,94,102,House,FALSE
+"Sharp, Jack",R,30,102,House,FALSE
+"Shaw, Johnny",D,80,102,House,FALSE
+"Shepard, David",D,69,102,House,FALSE
+"Stanley, Paul",R,96,102,House,FALSE
+"Tidwell, John C.",D,74,102,House,FALSE
+"Tindell, Harry J.",D,13,102,House,FALSE
+"Todd, Curry",R,95,102,House,FALSE
+"Towns, Joe, Jr.",D,84,102,House,FALSE
+"Turner, Brenda K.",D,29,102,House,FALSE
+"Turner, Larry",D,85,102,House,FALSE
+"Turner, Mike",D,51,102,House,FALSE
+"Vincent, Jim",R,31,102,House,FALSE
+"Walker, Raymond",R,25,102,House,FALSE
+"West, Ben , Jr.",D,60,102,House,FALSE
+"Westmoreland, Keith",R,2,102,House,FALSE
+"White, John",D,70,102,House,FALSE
+"Whitson, Zane C.",R,5,102,House,FALSE
+"Williams, Mike",D,63,102,House,FALSE
+"Windle, John Mark",D,41,102,House,FALSE
+"Winningham, Les",D,38,102,House,FALSE
+"Wood, Bobby G.",R,26,102,House,FALSE
+"Armstrong, Joe E.",D,15,103,House,FALSE
+"Baird, William",R,36,103,House,FALSE
+"Bittle, H. E.",R,14,103,House,FALSE
+"Black, Diane",R,45,103,House,FALSE
+"Bone, Stratton",D,46,103,House,FALSE
+"Borchert, Willie Butch",D,75,103,House,FALSE
+"Bowers, Kathryn I.",D,87,103,House,FALSE
+"Briley, Rob",D,52,103,House,FALSE
+"Brooks, Harry",R,19,103,House,FALSE
+"Brooks, Henri E.",D,92,103,House,FALSE
+"Brown, Tommie F.",D,28,103,House,FALSE
+"Buck, Frank",D,40,103,House,FALSE
+"Bunch, Dewayne",R,24,103,House,FALSE
+"Buttry, Steven",R,18,103,House,FALSE
+"Casada, Glen",R,63,103,House,FALSE
+"Clem, Chris",R,27,103,House,FALSE
+"Cobb, Curt.",D,62,103,House,FALSE
+"Cochran, Jerome",R,4,103,House,FALSE
+"Coleman, Kent",D,49,103,House,FALSE
+"Cooper, Barbara",D,86,103,House,FALSE
+"Crider, Chris",R,79,103,House,FALSE
+"Curtiss, Charles",D,43,103,House,FALSE
+"Davidson, Eugene E.",D,66,103,House,FALSE
+"Davis, David",R,6,103,House,FALSE
+"DeBerry, John J., Jr.",D,90,103,House,FALSE
+"DeBerry, Lois M.",D,91,103,House,FALSE
+"DuBois, Tom",R,64,103,House,FALSE
+"Dunn, Bill",R,16,103,House,FALSE
+"Eldridge, Jimmy A.",R,73,103,House,FALSE
+"Ferguson, Dennis",D,32,103,House,FALSE
+"Fitzhugh, Craig",D,82,103,House,FALSE
+"Fowlkes, Joe F.",D,65,103,House,FALSE
+"Fraley, George W.",D,39,103,House,FALSE
+"Garrett, Tim",D,50,103,House,FALSE
+"Godsey, Steve",R,1,103,House,FALSE
+"Gresham, Dolores",R,94,103,House,FALSE
+"Hackworth, Jim",D,33,103,House,FALSE
+"Hagood, Jamie",R,17,103,House,FALSE
+"Hargett, Tre",R,97,103,House,FALSE
+"Hargrove, Jere L.",D,42,103,House,FALSE
+"Harmon, Bill W.",D,37,103,House,FALSE
+"Harrison, Michael",R,9,103,House,FALSE
+"Harwell, Beth",R,56,103,House,FALSE
+"Hawk, David",R,5,103,House,FALSE
+"Head, Tommy",D,68,103,House,FALSE
+"Hensley, Joey",R,70,103,House,FALSE
+"Hood, John",D,48,103,House,FALSE
+"Johnson, Phillip",R,78,103,House,FALSE
+"Johnson, Russell",R,21,103,House,FALSE
+"Jones, Sherry",D,59,103,House,FALSE
+"Jones, Ulysses, Jr.",D,98,103,House,FALSE
+"Kent, Joe",R,83,103,House,FALSE
+"Kernell, Mike",D,93,103,House,FALSE
+"Langster, Edith Taylor",D,54,103,House,FALSE
+"Litz, John",D,10,103,House,FALSE
+"Lynn, Susan M.",R,57,103,House,FALSE
+"Marrero, Beverly",D,89,103,House,FALSE
+"Maddox, Mark L.",D,76,103,House,FALSE
+"Matheny, Judd",R,47,103,House,FALSE
+"McCord, Joe",R,8,103,House,FALSE
+"McDaniel, Steve",R,72,103,House,FALSE
+"McDonald, Michael Ray",D,44,103,House,FALSE
+"McKee, Bob",R,23,103,House,FALSE
+"McMillan, Kim A.",D,67,103,House,FALSE
+"Miller, Larry J.",D,88,103,House,FALSE
+"Montgomery, Richard",R,12,103,House,FALSE
+"Mumpower, Jason",R,3,103,House,FALSE
+"Naifeh, Jimmy",D,81,103,House,TRUE
+"Newton, J. Chris",R,22,103,House,FALSE
+"Odom, Gary",D,55,103,House,FALSE
+"Overbey, Doug",R,20,103,House,FALSE
+"Patton, Robert D.",R,7,103,House,FALSE
+"Pinion, Phillip",D,77,103,House,FALSE
+"Pleasant, W. C.",R,99,103,House,FALSE
+"Pruitt, Mary",D,58,103,House,FALSE
+"Rinks, Randy",D,71,103,House,FALSE
+"Roach, Dennis E.",R,35,103,House,FALSE
+"Rowland, Donna",R,34,103,House,FALSE
+"Sargent, Charles Michael",R,61,103,House,FALSE
+"Sharp, Jack",R,30,103,House,FALSE
+"Shaw, Johnny",D,80,103,House,FALSE
+"Shepard, David",D,69,103,House,FALSE
+"Sontany, Janis Baird",D,53,103,House,FALSE
+"Stanley, Paul",R,96,103,House,FALSE
+"Tidwell, John C.",D,74,103,House,FALSE
+"Tindell, Harry J.",D,13,103,House,FALSE
+"Todd, Curry",R,95,103,House,FALSE
+"Towns, Joe, Jr.",D,84,103,House,FALSE
+"Turner, Brenda K.",D,29,103,House,FALSE
+"Turner, Larry",D,85,103,House,FALSE
+"Turner, Mike",D,51,103,House,FALSE
+"Vaughn, Nathan",D,2,103,House,FALSE
+"Vincent, Jim",R,31,103,House,FALSE
+"Walker, Raymond",R,25,103,House,FALSE
+"West, Ben , Jr.",D,60,103,House,FALSE
+"Windle, John Mark",D,41,103,House,FALSE
+"Winningham, Les",D,38,103,House,FALSE
+"Wood, Bobby G.",R,26,103,House,FALSE
+"Yokley, Eddie",D,11,103,House,FALSE
+"Armstrong, Joe E.",D,15,104,House,FALSE
+"Baird, William",R,36,104,House,FALSE
+"Bone, Stratton",D,46,104,House,FALSE
+"Borchert, Willie Butch",D,75,104,House,FALSE
+"Briley, Rob",D,52,104,House,FALSE
+"Brooks, Harry",R,19,104,House,FALSE
+"Brooks, Henri E.",D,92,104,House,FALSE
+"Brown, Tommie F.",D,28,104,House,FALSE
+"Buck, Frank",D,40,104,House,FALSE
+"Bunch, Dewayne",R,24,104,House,FALSE
+"Campfield, Stacey",R,18,104,House,FALSE
+"Casada, Glen",R,63,104,House,FALSE
+"Clem, Chris",R,27,104,House,FALSE
+"Cobb, Curt.",D,62,104,House,FALSE
+"Cochran, Jerome",R,4,104,House,FALSE
+"Coleman, Kent",D,49,104,House,FALSE
+"Cooper, Barbara",D,86,104,House,FALSE
+"Crider, Chris",R,79,104,House,FALSE
+"Curtiss, Charles",D,43,104,House,FALSE
+"Davidson, Eugene E.",D,66,104,House,FALSE
+"Davis, David",R,6,104,House,FALSE
+"Dean, Vince",R,30,104,House,FALSE
+"DeBerry, John J., Jr.",D,90,104,House,FALSE
+"DeBerry, Lois M.",D,91,104,House,FALSE
+"DuBois, Tom",R,64,104,House,FALSE
+"Dunn, Bill",R,16,104,House,FALSE
+"Eldridge, Jimmy A.",R,73,104,House,FALSE
+"Favors, JoAnne",D,29,104,House,FALSE
+"Ferguson, Dennis",D,32,104,House,FALSE
+"Fitzhugh, Craig",D,82,104,House,FALSE
+"Fowlkes, Joe F.",D,65,104,House,FALSE
+"Fraley, George W.",D,39,104,House,FALSE
+"Gresham, Dolores",R,94,104,House,FALSE
+"Hackworth, Jim",D,33,104,House,FALSE
+"Hargett, Tre",R,97,104,House,FALSE
+"Hargrove, Jere L.",D,42,104,House,FALSE
+"Harmon, Bill W.",D,37,104,House,FALSE
+"Harrison, Michael",R,9,104,House,FALSE
+"Harwell, Beth",R,56,104,House,FALSE
+"Hawk, David",R,5,104,House,FALSE
+"Hensley, Joey",R,70,104,House,FALSE
+"Hill, Matthew",R,7,104,House,FALSE
+"Hood, John",D,48,104,House,FALSE
+"Johnson, Curtis G.",R,68,104,House,FALSE
+"Johnson, Phillip",R,78,104,House,FALSE
+"Jones, Sherry",D,59,104,House,FALSE
+"Jones, Ulysses, Jr.",D,98,104,House,FALSE
+"Kelsey, Brian K.",R,83,104,House,FALSE
+"Kernell, Mike",D,93,104,House,FALSE
+"Langster, Edith Taylor",D,54,104,House,FALSE
+"Litz, John",D,10,104,House,FALSE
+"Lynn, Susan M.",R,57,104,House,FALSE
+"Maddox, Mark L.",D,76,104,House,FALSE
+"Maggart, Debra Young",R,45,104,House,FALSE
+"Marrero, Beverly",D,89,104,House,FALSE
+"Matheny, Judd",R,47,104,House,FALSE
+"McCord, Joe",R,8,104,House,FALSE
+"McCormick, Gerald",R,26,104,House,FALSE
+"McDaniel, Steve",R,72,104,House,FALSE
+"McDonald, Michael Ray",D,44,104,House,FALSE
+"McKee, Bob",R,23,104,House,FALSE
+"McMillan, Kim A.",D,67,104,House,FALSE
+"Miller, Larry J.",D,88,104,House,FALSE
+"Montgomery, Richard",R,12,104,House,FALSE
+"Moore, Gary W.",D,50,104,House,FALSE
+"Mumpower, Jason",R,3,104,House,FALSE
+"Naifeh, Jimmy",D,81,104,House,TRUE
+"Niceley, Frank S.",R,17,104,House,FALSE
+"Odom, Gary",D,55,104,House,FALSE
+"Overbey, Doug",R,20,104,House,FALSE
+"Pinion, Phillip",D,77,104,House,FALSE
+"Pleasant, W. C.",R,99,104,House,FALSE
+"Pruitt, Mary",D,58,104,House,FALSE
+"Rinks, Randy",D,71,104,House,FALSE
+"Roach, Dennis E.",R,35,104,House,FALSE
+"Rowland, Donna",R,34,104,House,FALSE
+"Rowe, Gary",D,87,104,House,FALSE
+"Sargent, Charles Michael",R,61,104,House,FALSE
+"Shaw, Johnny",D,80,104,House,FALSE
+"Shepard, David",D,69,104,House,FALSE
+"Sontany, Janis Baird",D,53,104,House,FALSE
+"Stanley, Paul",R,96,104,House,FALSE
+"Strader, Park M",R,14,104,House,FALSE
+"Swafford, Eric H.",R,25,104,House,FALSE
+"Tidwell, John C.",D,74,104,House,FALSE
+"Tindell, Harry J.",D,13,104,House,FALSE
+"Todd, Curry",R,95,104,House,FALSE
+"Towns, Joe, Jr.",D,84,104,House,FALSE
+"Turner, Larry",D,85,104,House,FALSE
+"Turner, Mike",D,51,104,House,FALSE
+"Vaughn, Nathan",D,2,104,House,FALSE
+"Wampler, Harry W.",R,21,104,House,FALSE
+"Watson, Bo",R,31,104,House,FALSE
+"Watson, Eric",R,22,104,House,FALSE
+"West, Ben , Jr.",D,60,104,House,FALSE
+"Windle, John Mark",D,41,104,House,FALSE
+"Winningham, Les",D,38,104,House,FALSE
+"Yokley, Eddie",D,11,104,House,FALSE
+"Godsey, Steve",R,1,104,House,FALSE
+"Armstrong, Joe E.",D,15,105,House,FALSE
+"Baird, William",R,36,105,House,FALSE
+"Bass, Eddie",D,65,105,House,FALSE
+"Bell, Mike",R,23,105,House,FALSE
+"Bibb, Robert",D,66,105,House,FALSE
+"Bone, Stratton",D,46,105,House,FALSE
+"Borchert, Willie Butch",D,75,105,House,FALSE
+"Briley, Rob",D,52,105,House,FALSE
+"Brooks, Harry",R,19,105,House,FALSE
+"Brooks, Kevin",R,24,105,House,FALSE
+"Brown, Tommie F.",D,28,105,House,FALSE
+"Buck, Frank",D,40,105,House,FALSE
+"Camper, Karen D.",D,87,105,House,FALSE
+"Campfield, Stacey",R,18,105,House,FALSE
+"Casada, Glen",R,63,105,House,FALSE
+"Cobb, Curt.",D,62,105,House,FALSE
+"Cobb, Jim",R,31,105,House,FALSE
+"Coleman, Kent",D,49,105,House,FALSE
+"Coley, Jim",R,97,105,House,FALSE
+"Cooper, Barbara",D,86,105,House,FALSE
+"Crider, Chris",R,79,105,House,FALSE
+"Curtiss, Charles",D,43,105,House,FALSE
+"Dean, Vince",R,30,105,House,FALSE
+"DeBerry, John J., Jr.",D,90,105,House,FALSE
+"DeBerry, Lois M.",D,91,105,House,FALSE
+"DuBois, Tom",R,64,105,House,FALSE
+"Dunn, Bill",R,16,105,House,FALSE
+"Eldridge, Jimmy A.",R,73,105,House,FALSE
+"Favors, JoAnne",D,29,105,House,FALSE
+"Ferguson, Dennis",D,32,105,House,FALSE
+"Fincher, Henry",D,42,105,House,FALSE
+"Fitzhugh, Craig",D,82,105,House,FALSE
+"Floyd, Richard",R,27,105,House,FALSE
+"Ford, Dale",R,6,105,House,FALSE
+"Fraley, George W.",D,39,105,House,FALSE
+"Gilmore, Brenda",D,54,105,House,FALSE
+"Gresham, Dolores",R,94,105,House,FALSE
+"Hackworth, Jim",D,33,105,House,FALSE
+"Hardaway, G. A.",D,92,105,House,FALSE
+"Harmon, Bill W.",D,37,105,House,FALSE
+"Harrison, Michael",R,9,105,House,FALSE
+"Harwell, Beth",R,56,105,House,FALSE
+"Hawk, David",R,5,105,House,FALSE
+"Hensley, Joey",R,70,105,House,FALSE
+"Hill, Matthew",R,7,105,House,FALSE
+"Hood, John",D,48,105,House,FALSE
+"Johnson, Curtis G.",R,68,105,House,FALSE
+"Johnson, Phillip",R,78,105,House,FALSE
+"Jones, Sherry",D,59,105,House,FALSE
+"Jones, Ulysses, Jr.",D,98,105,House,FALSE
+"Kelsey, Brian K.",R,83,105,House,FALSE
+"Kernell, Mike",D,93,105,House,FALSE
+"Litz, John",D,10,105,House,FALSE
+"Lollar, Ron",R,99,105,House,FALSE
+"Lundberg, Jon",R,1,105,House,FALSE
+"Lynn, Susan M.",R,57,105,House,FALSE
+"Maddox, Mark L.",D,76,105,House,FALSE
+"Maggart, Debra Young",R,45,105,House,FALSE
+"Matheny, Judd",R,47,105,House,FALSE
+"Matlock, Jimmy",R,21,105,House,FALSE
+"McCord, Joe",R,8,105,House,FALSE
+"McCormick, Gerald",R,26,105,House,FALSE
+"McDaniel, Steve",R,72,105,House,FALSE
+"McDonald, Michael Ray",D,44,105,House,FALSE
+"McManus, Steve",R,96,105,House,FALSE
+"Miller, Larry J.",D,88,105,House,FALSE
+"Montgomery, Richard",R,12,105,House,FALSE
+"Moore, Gary W.",D,50,105,House,FALSE
+"Mumpower, Jason",R,3,105,House,FALSE
+"Naifeh, Jimmy",D,81,105,House,TRUE
+"Niceley, Frank S.",R,17,105,House,FALSE
+"Odom, Gary",D,55,105,House,FALSE
+"Overbey, Doug",R,20,105,House,FALSE
+"Pinion, Phillip",D,77,105,House,FALSE
+"Pitts, Joe",D,67,105,House,FALSE
+"Pruitt, Mary",D,58,105,House,FALSE
+"Richardson, Jeanne",D,89,105,House,FALSE
+"Rinks, Randy",D,71,105,House,FALSE
+"Roach, Dennis E.",R,35,105,House,FALSE
+"Rowland, Donna",R,34,105,House,FALSE
+"Sargent, Charles Michael",R,61,105,House,FALSE
+"Shaw, Johnny",D,80,105,House,FALSE
+"Shepard, David",D,69,105,House,FALSE
+"Sontany, Janis Baird",D,53,105,House,FALSE
+"Strader, Park M",R,14,105,House,FALSE
+"Swafford, Eric H.",R,25,105,House,FALSE
+"Tidwell, John C.",D,74,105,House,FALSE
+"Tindell, Harry J.",D,13,105,House,FALSE
+"Todd, Curry",R,95,105,House,FALSE
+"Towns, Joe, Jr.",D,84,105,House,FALSE
+"Turner, Larry",D,85,105,House,FALSE
+"Turner, Mike",D,51,105,House,FALSE
+"Vaughn, Nathan",D,2,105,House,FALSE
+"Watson, Eric",R,22,105,House,FALSE
+"West, Ben, Jr.",D,60,105,House,FALSE
+"Williams, Kent",R,4,105,House,FALSE
+"Windle, John Mark",D,41,105,House,FALSE
+"Winningham, Les",D,38,105,House,FALSE
+"Yokley, Eddie",D,11,105,House,FALSE
 "Beavers, Mae",R,17,105,Senate,FALSE
 "Berke, Andy",D,10,105,Senate,FALSE
 "Black, Diane",R,18,105,Senate,FALSE
@@ -1447,3 +530,927 @@ Name,Party,District,Session,Chamber,Speaker
 "Wilder, John S.",D,26,105,Senate,FALSE
 "Williams, Micheal R.",I,4,105,Senate,FALSE
 "Woodson, Jamie",R,6,105,Senate,FALSE
+"Armstrong, Joe E.",D,15,106,House,FALSE
+"Barker, Judy",D,77,106,House,FALSE
+"Barrett, Donna",R,34,106,House,FALSE
+"Bass, Eddie",D,65,106,House,FALSE
+"Bell, Mike",R,23,106,House,FALSE
+"Bone, Stratton",D,46,106,House,FALSE
+"Borchert, Willie Butch",D,75,106,House,FALSE
+"Brooks, Harry",R,19,106,House,FALSE
+"Brooks, Kevin",R,24,106,House,FALSE
+"Brown, Tommie F.",D,28,106,House,FALSE
+"Camper, Karen D.",D,87,106,House,FALSE
+"Campfield, Stacey",R,18,106,House,FALSE
+"Carr, Joe",R,48,106,House,FALSE
+"Casada, Glen",R,63,106,House,FALSE
+"Cobb, Jim",R,31,106,House,FALSE
+"Cobb, Ty",D,64,106,House,FALSE
+"Coleman, Kent",D,49,106,House,FALSE
+"Coley, Jim",R,97,106,House,FALSE
+"Cooper, Barbara",D,86,106,House,FALSE
+"Curtiss, Charles",D,43,106,House,FALSE
+"Dean, Vince",R,30,106,House,FALSE
+"DeBerry, John J., Jr.",D,90,106,House,FALSE
+"DeBerry, Lois M.",D,91,106,House,FALSE
+"Dennis, Vance",R,71,106,House,FALSE
+"Dunn, Bill",R,16,106,House,FALSE
+"Eldridge, Jimmy A.",R,73,106,House,FALSE
+"Evans, Joshua G.",R,66,106,House,FALSE
+"Faulkner, Chad",R,36,106,House,FALSE
+"Favors, JoAnne",D,29,106,House,FALSE
+"Ferguson, Dennis",D,32,106,House,FALSE
+"Fincher, Henry",D,42,106,House,FALSE
+"Fitzhugh, Craig",D,82,106,House,FALSE
+"Floyd, Richard",R,27,106,House,FALSE
+"Ford, Dale",R,6,106,House,FALSE
+"Fraley, George W.",D,39,106,House,FALSE
+"Gilmore, Brenda",D,54,106,House,FALSE
+"Hackworth, Jim",D,33,106,House,FALSE
+"Halford, Curtis",R,79,106,House,FALSE
+"Hardaway, G. A.",D,92,106,House,FALSE
+"Harmon, Bill W.",D,37,106,House,FALSE
+"Harrison, Michael",R,9,106,House,FALSE
+"Harwell, Beth",R,56,106,House,FALSE
+"Hawk, David",R,5,106,House,FALSE
+"Haynes, Ryan A.",R,14,106,House,FALSE
+"Hensley, Joey",R,70,106,House,FALSE
+"Hill, Matthew",R,7,106,House,FALSE
+"Johnson, Curtis G.",R,68,106,House,FALSE
+"Johnson, Phillip",R,78,106,House,FALSE
+"Jones, Sherry",D,59,106,House,FALSE
+"Jones, Ulysses, Jr.",D,98,106,House,FALSE
+"Kernell, Mike",D,93,106,House,FALSE
+"Litz, John",D,10,106,House,FALSE
+"Lollar, Ron",R,99,106,House,FALSE
+"Lundberg, Jon",R,1,106,House,FALSE
+"Lynn, Susan M.",R,57,106,House,FALSE
+"Maddox, Mark L.",D,76,106,House,FALSE
+"Maggart, Debra Young",R,45,106,House,FALSE
+"Marsh, Pat",R,62,106,House,FALSE
+"Matheny, Judd",R,47,106,House,FALSE
+"Matlock, Jimmy",R,21,106,House,FALSE
+"McCord, Joe",R,8,106,House,FALSE
+"McCormick, Gerald",R,26,106,House,FALSE
+"McDaniel, Steve",R,72,106,House,FALSE
+"McDonald, Michael Ray",D,44,106,House,FALSE
+"McManus, Steve",R,96,106,House,FALSE
+"Miller, Larry J.",D,88,106,House,FALSE
+"Montgomery, Richard",R,12,106,House,FALSE
+"Moore, Gary W.",D,50,106,House,FALSE
+"Mumpower, Jason",R,3,106,House,FALSE
+"Naifeh, Jimmy",D,81,106,House,FALSE
+"Niceley, Frank S.",R,17,106,House,FALSE
+"Odom, Gary",D,55,106,House,FALSE
+"Pitts, Joe",D,67,106,House,FALSE
+"Pruitt, Mary",D,58,106,House,FALSE
+"Ramsey, Bob",R,20,106,House,FALSE
+"Rich, Barrett",R,94,106,House,FALSE
+"Richardson, Jeanne",D,89,106,House,FALSE
+"Roach, Dennis E.",R,35,106,House,FALSE
+"Sargent, Charles Michael",R,61,106,House,FALSE
+"Shaw, Johnny",D,80,106,House,FALSE
+"Shepard, David",D,69,106,House,FALSE
+"Shipley, Tony",R,2,106,House,FALSE
+"Sontany, Janis Baird",D,53,106,House,FALSE
+"Stewart, Mike",D,52,106,House,FALSE
+"Swafford, Eric H.",R,25,106,House,FALSE
+"Tidwell, John C.",D,74,106,House,FALSE
+"Tindell, Harry J.",D,13,106,House,FALSE
+"Todd, Curry",R,95,106,House,FALSE
+"Towns, Joe, Jr.",D,84,106,House,FALSE
+"Turner, Johnnie",D,85,106,House,FALSE
+"Turner, Mike",D,51,106,House,FALSE
+"Watson, Eric",R,22,106,House,FALSE
+"Weaver, Terri Lynn",R,40,106,House,FALSE
+"West, Ben , Jr.",D,60,106,House,FALSE
+"Williams, Kent",R,4,106,House,TRUE
+"Windle, John Mark",D,41,106,House,FALSE
+"Winningham, Les",D,38,106,House,FALSE
+"Yokley, Eddie",D,11,106,House,FALSE
+"Barnes, Tim",D,22,106,Senate,FALSE
+"Beavers, Mae",R,17,106,Senate,FALSE
+"Berke, Andy",D,10,106,Senate,FALSE
+"Black, Diane",R,18,106,Senate,FALSE
+"Bunch, Dewayne",R,9,106,Senate,FALSE
+"Burks, Charlotte",D,15,106,Senate,FALSE
+"Crowe, Rusty",R,3,106,Senate,FALSE
+"Faulk, Mike",R,4,106,Senate,FALSE
+"Finney, Lowe",D,27,106,Senate,FALSE
+"Ford, Ophelia",D,29,106,Senate,FALSE
+"Gresham, Dolores",R,26,106,Senate,FALSE
+"Harper, Thelma",D,19,106,Senate,FALSE
+"Haynes, Joe M.",D,20,106,Senate,FALSE
+"Henry, Douglas",D,21,106,Senate,FALSE
+"Herron, Roy",D,24,106,Senate,FALSE
+"Hill, Steve",R,7,106,Senate,FALSE
+"Jackson, Doug",D,25,106,Senate,FALSE
+"Johnson, Jack",R,23,106,Senate,FALSE
+"Kelsey, Brian K.",R,31,106,Senate,FALSE
+"Ketron, Bill",R,13,106,Senate,FALSE
+"Kyle, Jim",D,28,106,Senate,FALSE
+"Marrero, Beverly",D,30,106,Senate,FALSE
+"McNally, Randy",R,5,106,Senate,FALSE
+"Norris, Mark",R,32,106,Senate,FALSE
+"Overbey, Doug",R,8,106,Senate,FALSE
+"Ramsey, Ron",R,2,106,Senate,TRUE
+"Southerland, Steve",R,1,106,Senate,FALSE
+"Stewart, Eric",D,14,106,Senate,FALSE
+"Tate, Reginald",D,33,106,Senate,FALSE
+"Tracy, Jim",R,16,106,Senate,FALSE
+"Watson, Bo",R,11,106,Senate,FALSE
+"Woodson, Jamie",R,6,106,Senate,FALSE
+"Yager, Ken",R,12,106,Senate,FALSE
+"Kelsey, Brian K.",R,83,106,House,FALSE
+"Alexander, David",R,39,107,House,FALSE
+"Armstrong, Joe E.",D,15,107,House,FALSE
+"Bass, Eddie",D,65,107,House,FALSE
+"Brooks, Harry",R,19,107,House,FALSE
+"Brooks, Kevin",R,24,107,House,FALSE
+"Brown, Tommie F.",D,28,107,House,FALSE
+"Butt, Sheila",R,64,107,House,FALSE
+"Campbell, Scotty",R,3,107,House,FALSE
+"Camper, Karen D.",D,87,107,House,FALSE
+"Carr, Joe",R,48,107,House,FALSE
+"Casada, Glen",R,63,107,House,FALSE
+"Cobb, Jim",R,31,107,House,FALSE
+"Coley, Jim",R,97,107,House,FALSE
+"Cooper, Barbara",D,86,107,House,FALSE
+"Curtiss, Charles",D,43,107,House,FALSE
+"Dean, Vince",R,30,107,House,FALSE
+"DeBerry, John J., Jr.",D,90,107,House,FALSE
+"DeBerry, Lois M.",D,91,107,House,FALSE
+"Dennis, Vance",R,71,107,House,FALSE
+"Dunn, Bill",R,16,107,House,FALSE
+"Elam, Linda",R,57,107,House,FALSE
+"Eldridge, Jimmy A.",R,73,107,House,FALSE
+"Evans, Joshua G.",R,66,107,House,FALSE
+"Faison, Jeremy",R,11,107,House,FALSE
+"Favors, JoAnne",D,29,107,House,FALSE
+"Fitzhugh, Craig",D,82,107,House,FALSE
+"Floyd, Richard",R,27,107,House,FALSE
+"Ford, Dale",R,6,107,House,FALSE
+"Forgety, John",R,23,107,House,FALSE
+"Gilmore, Brenda",D,54,107,House,FALSE
+"Gotto, Jim",R,60,107,House,FALSE
+"Halford, Curtis",R,79,107,House,FALSE
+"Hall, Steve",R,18,107,House,FALSE
+"Hardaway, G. A.",D,92,107,House,FALSE
+"Harmon, Bill W.",D,37,107,House,FALSE
+"Harrison, Michael",R,9,107,House,FALSE
+"Harwell, Beth",R,56,107,House,TRUE
+"Hawk, David",R,5,107,House,FALSE
+"Haynes, Ryan A.",R,14,107,House,FALSE
+"Hensley, Joey",R,70,107,House,FALSE
+"Hill, Matthew",R,7,107,House,FALSE
+"Holt, Andy H.",R,76,107,House,FALSE
+"Hurley, Julia",R,32,107,House,FALSE
+"Johnson, Curtis G.",R,68,107,House,FALSE
+"Johnson, Phillip",R,78,107,House,FALSE
+"Jones, Sherry",D,59,107,House,FALSE
+"Keisling, Kelly",R,38,107,House,FALSE
+"Kernell, Mike",D,93,107,House,FALSE
+"Lollar, Ron",R,99,107,House,FALSE
+"Lundberg, Jon",R,1,107,House,FALSE
+"Maggart, Debra Young",R,45,107,House,FALSE
+"Marsh, Pat",R,62,107,House,FALSE
+"Matheny, Judd",R,47,107,House,FALSE
+"Matlock, Jimmy",R,21,107,House,FALSE
+"McCormick, Gerald",R,26,107,House,FALSE
+"McDaniel, Steve",R,72,107,House,FALSE
+"McDonald, Michael Ray",D,44,107,House,FALSE
+"McManus, Steve",R,96,107,House,FALSE
+"Miller, Don",R,10,107,House,FALSE
+"Miller, Larry J.",D,88,107,House,FALSE
+"Montgomery, Richard",R,12,107,House,FALSE
+"Moore, Gary W.",D,50,107,House,FALSE
+"Naifeh, Jimmy",D,81,107,House,FALSE
+"Niceley, Frank S.",R,17,107,House,FALSE
+"Odom, Gary",D,55,107,House,FALSE
+"Parkinson, Antonio",D,98,107,House,FALSE
+"Pitts, Joe",D,67,107,House,FALSE
+"Pody, Mark",R,46,107,House,FALSE
+"Powers, Dennis",R,36,107,House,FALSE
+"Pruitt, Mary",D,58,107,House,FALSE
+"Ragan, John",R,33,107,House,FALSE
+"Ramsey, Bob",R,20,107,House,FALSE
+"Rich, Barrett",R,94,107,House,FALSE
+"Richardson, Jeanne",D,89,107,House,FALSE
+"Roach, Dennis E.",R,35,107,House,FALSE
+"Sanderson, Bill",R,77,107,House,FALSE
+"Sargent, Charles Michael",R,61,107,House,FALSE
+"Sexton, Cameron",R,25,107,House,FALSE
+"Shaw, Johnny",D,80,107,House,FALSE
+"Shepard, David",D,69,107,House,FALSE
+"Shipley, Tony",R,2,107,House,FALSE
+"Sontany, Janis Baird",D,53,107,House,FALSE
+"Sparks, Mike",R,49,107,House,FALSE
+"Stewart, Mike",D,52,107,House,FALSE
+"Swann, Art",R,8,107,House,FALSE
+"Tidwell, John C.",D,74,107,House,FALSE
+"Tindell, Harry J.",D,13,107,House,FALSE
+"Todd, Curry",R,95,107,House,FALSE
+"Towns, Joe, Jr.",D,84,107,House,FALSE
+"Turner, Johnnie",D,85,107,House,FALSE
+"Turner, Mike",D,51,107,House,FALSE
+"Watson, Eric",R,22,107,House,FALSE
+"Weaver, Terri Lynn",R,40,107,House,FALSE
+"White, Mark",R,83,107,House,FALSE
+"Williams, Kent",R,4,107,House,FALSE
+"Williams, Ryan",R,42,107,House,FALSE
+"Windle, John Mark",D,41,107,House,FALSE
+"Wirgau, Tim",R,75,107,House,FALSE
+"Womick, Rick",R,34,107,House,FALSE
+"Barnes, Tim",D,22,107,Senate,FALSE
+"Beavers, Mae",R,17,107,Senate,FALSE
+"Bell, Mike",R,9,107,Senate,FALSE
+"Berke, Andy",D,10,107,Senate,FALSE
+"Burks, Charlotte",D,15,107,Senate,FALSE
+"Campfield, Stacey",R,7,107,Senate,FALSE
+"Crowe, Rusty",R,3,107,Senate,FALSE
+"Faulk, Mike",R,4,107,Senate,FALSE
+"Finney, Lowe",D,27,107,Senate,FALSE
+"Ford, Ophelia",D,29,107,Senate,FALSE
+"Gresham, Dolores",R,26,107,Senate,FALSE
+"Harper, Thelma",D,19,107,Senate,FALSE
+"Haynes, Joe M.",D,20,107,Senate,FALSE
+"Henry, Douglas",D,21,107,Senate,FALSE
+"Herron, Roy",D,24,107,Senate,FALSE
+"Johnson, Jack",R,23,107,Senate,FALSE
+"Kelsey, Brian K.",R,31,107,Senate,FALSE
+"Ketron, Bill",R,13,107,Senate,FALSE
+"Kyle, Jim",D,28,107,Senate,FALSE
+"Marrero, Beverly",D,30,107,Senate,FALSE
+"Massey, Becky Duncan",R,6,107,Senate,FALSE
+"McNally, Randy",R,5,107,Senate,FALSE
+"Norris, Mark",R,32,107,Senate,FALSE
+"Overbey, Doug",R,8,107,Senate,FALSE
+"Ramsey, Ron",R,2,107,Senate,TRUE
+"Roberts, Kerry",R,18,107,Senate,FALSE
+"Southerland, Steve",R,1,107,Senate,FALSE
+"Stewart, Eric",D,14,107,Senate,FALSE
+"Summerville, Jim",R,25,107,Senate,FALSE
+"Tate, Reginald",D,33,107,Senate,FALSE
+"Tracy, Jim",R,16,107,Senate,FALSE
+"Watson, Bo",R,11,107,Senate,FALSE
+"Yager, Ken",R,12,107,Senate,FALSE
+"Akbari, Raumesh",D,91,108,House,FALSE
+"Alexander, David",R,39,108,House,FALSE
+"Armstrong, Joe E.",D,15,108,House,FALSE
+"Bailey, Paul",R,43,108,House,FALSE
+"Brooks, Harry",R,19,108,House,FALSE
+"Brooks, Kevin",R,24,108,House,FALSE
+"Butt, Sheila",R,64,108,House,FALSE
+"Calfee, Kent",R,32,108,House,FALSE
+"Camper, Karen D.",D,87,108,House,FALSE
+"Carr, Dale",R,12,108,House,FALSE
+"Carr, Joe",R,48,108,House,FALSE
+"Carter, Mike",R,29,108,House,FALSE
+"Casada, Glen",R,63,108,House,FALSE
+"Coley, Jim",R,97,108,House,FALSE
+"Cooper, Barbara",D,86,108,House,FALSE
+"DeBerry, John J., Jr.",D,90,108,House,FALSE
+"Dennis, Vance",R,71,108,House,FALSE
+"Doss, Barry",R,70,108,House,FALSE
+"Dunn, Bill",R,16,108,House,FALSE
+"Durham, Jeremy",R,65,108,House,FALSE
+"Eldridge, Jimmy A.",R,73,108,House,FALSE
+"Evans, Joshua G.",R,66,108,House,FALSE
+"Faison, Jeremy",R,11,108,House,FALSE
+"Farmer, Andrew",R,17,108,House,FALSE
+"Favors, JoAnne",D,28,108,House,FALSE
+"Fitzhugh, Craig",D,82,108,House,FALSE
+"Floyd, Richard",R,27,108,House,FALSE
+"Forgety, John",R,23,108,House,FALSE
+"Gilmore, Brenda",D,54,108,House,FALSE
+"Goins, Tilman",R,10,108,House,FALSE
+"Gravitt, Marc",R,30,108,House,FALSE
+"Halford, Curtis",R,79,108,House,FALSE
+"Hall, Steve",R,18,108,House,FALSE
+"Hardaway, G. A.",D,93,108,House,FALSE
+"Harrison, Michael",R,9,108,House,FALSE
+"Harwell, Beth",R,56,108,House,TRUE
+"Hawk, David",R,5,108,House,FALSE
+"Haynes, Ryan A.",R,14,108,House,FALSE
+"Hill, Matthew",R,7,108,House,FALSE
+"Hill, Timothy",R,3,108,House,FALSE
+"Holt, Andy H.",R,76,108,House,FALSE
+"Howell, Dan",R,22,108,House,FALSE
+"Jernigan, Darren",D,60,108,House,FALSE
+"Johnson, Curtis G.",R,68,108,House,FALSE
+"Johnson, Gloria",D,13,108,House,FALSE
+"Jones, Sherry",D,59,108,House,FALSE
+"Kane, Roger",R,89,108,House,FALSE
+"Keisling, Kelly",R,38,108,House,FALSE
+"Lamberth, William",R,44,108,House,FALSE
+"Littleton, Mary",R,78,108,House,FALSE
+"Lollar, Ron",R,99,108,House,FALSE
+"Love, Harold M., Jr.",D,58,108,House,FALSE
+"Lundberg, Jon",R,1,108,House,FALSE
+"Lynn, Susan M.",R,57,108,House,FALSE
+"Marsh, Pat",R,62,108,House,FALSE
+"Matheny, Judd",R,47,108,House,FALSE
+"Matlock, Jimmy",R,21,108,House,FALSE
+"McCormick, Gerald",R,26,108,House,FALSE
+"McDaniel, Steve",R,72,108,House,FALSE
+"McManus, Steve",R,96,108,House,FALSE
+"Miller, Larry J.",D,88,108,House,FALSE
+"Mitchell, Bo",D,50,108,House,FALSE
+"Moody, Debra",R,81,108,House,FALSE
+"Odom, Gary",D,55,108,House,FALSE
+"Parkinson, Antonio",D,98,108,House,FALSE
+"Pitts, Joe",D,67,108,House,FALSE
+"Pody, Mark",R,46,108,House,FALSE
+"Powell, Jason",D,53,108,House,FALSE
+"Powers, Dennis",R,36,108,House,FALSE
+"Ragan, John",R,33,108,House,FALSE
+"Ramsey, Bob",R,20,108,House,FALSE
+"Rich, Barrett",R,94,108,House,FALSE
+"Roach, Dennis E.",R,35,108,House,FALSE
+"Rogers, Courtney",R,45,108,House,FALSE
+"Sanderson, Bill",R,77,108,House,FALSE
+"Sargent, Charles Michael",R,61,108,House,FALSE
+"Sexton, Cameron",R,25,108,House,FALSE
+"Shaw, Johnny",D,80,108,House,FALSE
+"Shepard, David",D,69,108,House,FALSE
+"Shipley, Tony",R,2,108,House,FALSE
+"Sparks, Mike",R,49,108,House,FALSE
+"Spivey, Billy",R,92,108,House,FALSE
+"Stewart, Mike",D,52,108,House,FALSE
+"Swann, Art",R,8,108,House,FALSE
+"Tidwell, John C.",D,74,108,House,FALSE
+"Todd, Curry",R,95,108,House,FALSE
+"Towns, Joe, Jr.",D,84,108,House,FALSE
+"Travis, Ron",R,31,108,House,FALSE
+"Turner, Johnnie",D,85,108,House,FALSE
+"Turner, Mike",D,51,108,House,FALSE
+"Van Huss, James (Micah)",R,6,108,House,FALSE
+"Weaver, Terri Lynn",R,40,108,House,FALSE
+"White, Dawn",R,37,108,House,FALSE
+"White, Mark",R,83,108,House,FALSE
+"Williams, Kent",I,4,108,House,FALSE
+"Williams, Ryan",R,42,108,House,FALSE
+"Windle, John Mark",D,41,108,House,FALSE
+"Wirgau, Tim",R,75,108,House,FALSE
+"Womick, Rick",R,34,108,House,FALSE
+"Beavers, Mae",R,17,108,Senate,FALSE
+"Bell, Mike",R,9,108,Senate,FALSE
+"Bowling, Janice",R,16,108,Senate,FALSE
+"Burks, Charlotte",D,15,108,Senate,FALSE
+"Campfield, Stacey",R,7,108,Senate,FALSE
+"Crowe, Rusty",R,3,108,Senate,FALSE
+"Dickerson, Steven",R,20,108,Senate,FALSE
+"Finney, Lowe",D,27,108,Senate,FALSE
+"Ford, Ophelia",D,29,108,Senate,FALSE
+"Gardenhire, Todd",R,10,108,Senate,FALSE
+"Green, Mark",R,22,108,Senate,FALSE
+"Gresham, Dolores",R,26,108,Senate,FALSE
+"Haile, Ferrell",R,18,108,Senate,FALSE
+"Harper, Thelma",D,19,108,Senate,FALSE
+"Henry, Douglas",D,21,108,Senate,FALSE
+"Hensley, Joey",R,28,108,Senate,FALSE
+"Johnson, Jack",R,23,108,Senate,FALSE
+"Kelsey, Brian K.",R,31,108,Senate,FALSE
+"Ketron, Bill",R,13,108,Senate,FALSE
+"Massey, Becky Duncan",R,6,108,Senate,FALSE
+"McNally, Randy",R,5,108,Senate,FALSE
+"Niceley, Frank S.",R,8,108,Senate,FALSE
+"Norris, Mark",R,32,108,Senate,FALSE
+"Overbey, Doug",R,2,108,Senate,FALSE
+"Ramsey, Ron",R,4,108,Senate,TRUE
+"Southerland, Steve",R,1,108,Senate,FALSE
+"Stevens, John",R,24,108,Senate,FALSE
+"Summerville, Jim",I,25,108,Senate,FALSE
+"Tate, Reginald",D,33,108,Senate,FALSE
+"Tracy, Jim",R,14,108,Senate,FALSE
+"Watson, Bo",R,11,108,Senate,FALSE
+"Yager, Ken",R,12,108,Senate,FALSE
+"Kyle, Jim",D,30,108,Senate,FALSE
+"Akbari, Raumesh",D,91,109,House,FALSE
+"Alexander, David",R,39,109,House,FALSE
+"Beck, Bill",D,51,109,House,FALSE
+"Brooks, Harry",R,19,109,House,FALSE
+"Brooks, Kevin",R,24,109,House,FALSE
+"Butt, Sheila",R,64,109,House,FALSE
+"Byrd, David",R,71,109,House,FALSE
+"Calfee, Kent",R,32,109,House,FALSE
+"Camper, Karen D.",D,87,109,House,FALSE
+"Carr, Dale",R,12,109,House,FALSE
+"Carter, Mike",R,29,109,House,FALSE
+"Casada, Glen",R,63,109,House,FALSE
+"Clemmons, John Ray",D,55,109,House,FALSE
+"Coley, Jim",R,97,109,House,FALSE
+"Cooper, Barbara",D,86,109,House,FALSE
+"Daniel, Martin",R,18,109,House,FALSE
+"DeBerry, John J., Jr.",D,90,109,House,FALSE
+"Doss, Barry",R,70,109,House,FALSE
+"Dunlap, Kevin",D,43,109,House,FALSE
+"Dunn, Bill",R,16,109,House,FALSE
+"Eldridge, Jimmy A.",R,73,109,House,FALSE
+"Faison, Jeremy",R,11,109,House,FALSE
+"Farmer, Andrew",R,17,109,House,FALSE
+"Favors, JoAnne",D,28,109,House,FALSE
+"Fitzhugh, Craig",D,82,109,House,FALSE
+"Forgety, John",R,23,109,House,FALSE
+"Gilmore, Brenda",D,54,109,House,FALSE
+"Goins, Tilman",R,10,109,House,FALSE
+"Gravitt, Marc",R,30,109,House,FALSE
+"Halford, Curtis",R,79,109,House,FALSE
+"Hardaway, G. A.",D,93,109,House,FALSE
+"Harwell, Beth",R,56,109,House,TRUE
+"Hawk, David",R,5,109,House,FALSE
+"Hazlewood, Patsy",R,27,109,House,FALSE
+"Hicks, Gary",R,9,109,House,FALSE
+"Hill, Matthew",R,7,109,House,FALSE
+"Hill, Timothy",R,3,109,House,FALSE
+"Holsclaw, Jr., John B.",R,4,109,House,FALSE
+"Holt, Andy H.",R,76,109,House,FALSE
+"Howell, Dan",R,22,109,House,FALSE
+"Hulsey, Bud",R,2,109,House,FALSE
+"Jenkins, Jamie H.",R,94,109,House,FALSE
+"Jernigan, Darren",D,60,109,House,FALSE
+"Johnson, Curtis G.",R,68,109,House,FALSE
+"Jones, Sherry",D,59,109,House,FALSE
+"Kane, Roger",R,89,109,House,FALSE
+"Keisling, Kelly",R,38,109,House,FALSE
+"Kumar, Sabi",R,66,109,House,FALSE
+"Lamberth, William",R,44,109,House,FALSE
+"Littleton, Mary",R,78,109,House,FALSE
+"Lollar, Ron",R,99,109,House,FALSE
+"Love, Harold M., Jr.",D,58,109,House,FALSE
+"Lundberg, Jon",R,1,109,House,FALSE
+"Lynn, Susan M.",R,57,109,House,FALSE
+"Marsh, Pat",R,62,109,House,FALSE
+"Matheny, Judd",R,47,109,House,FALSE
+"Matlock, Jimmy",R,21,109,House,FALSE
+"McCormick, Gerald",R,26,109,House,FALSE
+"McDaniel, Steve",R,72,109,House,FALSE
+"McManus, Steve",R,96,109,House,FALSE
+"Miller, Larry J.",D,88,109,House,FALSE
+"Mitchell, Bo",D,50,109,House,FALSE
+"Moody, Debra",R,81,109,House,FALSE
+"Parkinson, Antonio",D,98,109,House,FALSE
+"Pitts, Joe",D,67,109,House,FALSE
+"Pody, Mark",R,46,109,House,FALSE
+"Powell, Jason",D,53,109,House,FALSE
+"Powers, Dennis",R,36,109,House,FALSE
+"Ragan, John",R,33,109,House,FALSE
+"Ramsey, Bob",R,20,109,House,FALSE
+"Reedy, Jay D.",R,74,109,House,FALSE
+"Rogers, Courtney",R,45,109,House,FALSE
+"Sanderson, Bill",R,77,109,House,FALSE
+"Sargent, Charles Michael",R,61,109,House,FALSE
+"Sexton, Cameron",R,25,109,House,FALSE
+"Sexton, Jerry",R,35,109,House,FALSE
+"Shaw, Johnny",D,80,109,House,FALSE
+"Shepard, David",D,69,109,House,FALSE
+"Smith, Eddie",R,13,109,House,FALSE
+"Sparks, Mike",R,49,109,House,FALSE
+"Spivey, Billy",R,92,109,House,FALSE
+"Stewart, Mike",D,52,109,House,FALSE
+"Swann, Art",R,8,109,House,FALSE
+"Terry, Bryan",R,48,109,House,FALSE
+"Todd, Curry",R,95,109,House,FALSE
+"Towns, Joe, Jr.",D,84,109,House,FALSE
+"Travis, Ron",R,31,109,House,FALSE
+"Turner, Johnnie",D,85,109,House,FALSE
+"Van Huss, James (Micah)",R,6,109,House,FALSE
+"Weaver, Terri Lynn",R,40,109,House,FALSE
+"White, Dawn",R,37,109,House,FALSE
+"White, Mark",R,83,109,House,FALSE
+"Williams, Ryan",R,42,109,House,FALSE
+"Windle, John Mark",D,41,109,House,FALSE
+"Wirgau, Tim",R,75,109,House,FALSE
+"Womick, Rick",R,34,109,House,FALSE
+"Zachary, Jason",R,14,109,House,FALSE
+"Bailey, Paul",R,15,109,Senate,FALSE
+"Beavers, Mae",R,17,109,Senate,FALSE
+"Bell, Mike",R,9,109,Senate,FALSE
+"Bowling, Janice",R,16,109,Senate,FALSE
+"Briggs, Richard",R,7,109,Senate,FALSE
+"Crowe, Rusty",R,3,109,Senate,FALSE
+"Dickerson, Steven",R,20,109,Senate,FALSE
+"Gardenhire, Todd",R,10,109,Senate,FALSE
+"Green, Mark",R,22,109,Senate,FALSE
+"Gresham, Dolores",R,26,109,Senate,FALSE
+"Haile, Ferrell",R,18,109,Senate,FALSE
+"Harper, Thelma",D,19,109,Senate,FALSE
+"Harris, Lee",D,29,109,Senate,FALSE
+"Hensley, Joey",R,28,109,Senate,FALSE
+"Jackson, Ed",R,27,109,Senate,FALSE
+"Johnson, Jack",R,23,109,Senate,FALSE
+"Kelsey, Brian K.",R,31,109,Senate,FALSE
+"Ketron, Bill",R,13,109,Senate,FALSE
+"Kyle, Sara",D,30,109,Senate,FALSE
+"Massey, Becky Duncan",R,6,109,Senate,FALSE
+"McNally, Randy",R,5,109,Senate,FALSE
+"Niceley, Frank S.",R,8,109,Senate,FALSE
+"Norris, Mark",R,32,109,Senate,FALSE
+"Overbey, Doug",R,2,109,Senate,FALSE
+"Ramsey, Ron",R,4,109,Senate,TRUE
+"Roberts, Kerry",R,25,109,Senate,FALSE
+"Southerland, Steve",R,1,109,Senate,FALSE
+"Stevens, John",R,24,109,Senate,FALSE
+"Tate, Reginald",D,33,109,Senate,FALSE
+"Tracy, Jim",R,14,109,Senate,FALSE
+"Watson, Bo",R,11,109,Senate,FALSE
+"Yager, Ken",R,12,109,Senate,FALSE
+"Yarbro, Jeff",D,21,109,Senate,FALSE
+"Armstrong, Joe E.",D,15,109,House,FALSE
+"Durham, Jeremy",R,65,109,House,FALSE
+"Akbari, Raumesh",D,91,110,House,FALSE
+"Alexander, David",R,39,110,House,FALSE
+"Beck, Bill",D,51,110,House,FALSE
+"Boyd, Clark",R,46,110,House,FALSE
+"Brooks, Harry",R,19,110,House,FALSE
+"Brooks, Kevin",R,24,110,House,FALSE
+"Butt, Sheila",R,64,110,House,FALSE
+"Byrd, David",R,71,110,House,FALSE
+"Calfee, Kent",R,32,110,House,FALSE
+"Camper, Karen D.",D,87,110,House,FALSE
+"Carr, Dale",R,12,110,House,FALSE
+"Carter, Mike",R,29,110,House,FALSE
+"Casada, Glen",R,63,110,House,FALSE
+"Clemmons, John Ray",D,55,110,House,FALSE
+"Coley, Jim",R,97,110,House,FALSE
+"Cooper, Barbara",D,86,110,House,FALSE
+"Crawford, John",R,1,110,House,FALSE
+"Curcio, Michael G.",R,69,110,House,FALSE
+"Daniel, Martin",R,18,110,House,FALSE
+"DeBerry, John J., Jr.",D,90,110,House,FALSE
+"Doss, Barry",R,70,110,House,FALSE
+"Dunn, Bill",R,16,110,House,FALSE
+"Eldridge, Jimmy A.",R,73,110,House,FALSE
+"Faison, Jeremy",R,11,110,House,FALSE
+"Farmer, Andrew",R,17,110,House,FALSE
+"Favors, JoAnne",D,28,110,House,FALSE
+"Fitzhugh, Craig",D,82,110,House,FALSE
+"Forgety, John",R,23,110,House,FALSE
+"Gant, Ron M.",R,94,110,House,FALSE
+"Gilmore, Brenda",D,54,110,House,FALSE
+"Goins, Tilman",R,10,110,House,FALSE
+"Gravitt, Marc",R,30,110,House,FALSE
+"Halford, Curtis",R,79,110,House,FALSE
+"Hardaway, G. A.",D,93,110,House,FALSE
+"Harwell, Beth",R,56,110,House,TRUE
+"Hawk, David",R,5,110,House,FALSE
+"Hazlewood, Patsy",R,27,110,House,FALSE
+"Hicks, Gary",R,9,110,House,FALSE
+"Hill, Matthew",R,7,110,House,FALSE
+"Hill, Timothy",R,3,110,House,FALSE
+"Holsclaw, Jr., John B.",R,4,110,House,FALSE
+"Holt, Andy H.",R,76,110,House,FALSE
+"Howell, Dan",R,22,110,House,FALSE
+"Hulsey, Bud",R,2,110,House,FALSE
+"Jernigan, Darren",D,60,110,House,FALSE
+"Johnson, Curtis G.",R,68,110,House,FALSE
+"Jones, Sherry",D,59,110,House,FALSE
+"Kane, Roger",R,89,110,House,FALSE
+"Keisling, Kelly",R,38,110,House,FALSE
+"Kumar, Sabi",R,66,110,House,FALSE
+"Lamberth, William",R,44,110,House,FALSE
+"Littleton, Mary",R,78,110,House,FALSE
+"Lollar, Ron",R,99,110,House,FALSE
+"Love, Harold M., Jr.",D,58,110,House,FALSE
+"Lynn, Susan M.",R,57,110,House,FALSE
+"Marsh, Pat",R,62,110,House,FALSE
+"Matheny, Judd",R,47,110,House,FALSE
+"Matlock, Jimmy",R,21,110,House,FALSE
+"McCormick, Gerald",R,26,110,House,FALSE
+"McDaniel, Steve",R,72,110,House,FALSE
+"Miller, Larry J.",D,88,110,House,FALSE
+"Mitchell, Bo",D,50,110,House,FALSE
+"Moody, Debra",R,81,110,House,FALSE
+"Moon, Jerome",R,8,110,House,FALSE
+"Parkinson, Antonio",D,98,110,House,FALSE
+"Pitts, Joe",D,67,110,House,FALSE
+"Powell, Jason",D,53,110,House,FALSE
+"Powers, Dennis",R,36,110,House,FALSE
+"Ragan, John",R,33,110,House,FALSE
+"Ramsey, Bob",R,20,110,House,FALSE
+"Reedy, Jay D.",R,74,110,House,FALSE
+"Rogers, Courtney",R,45,110,House,FALSE
+"Rudd, Tim",R,34,110,House,FALSE
+"Sanderson, Bill",R,77,110,House,FALSE
+"Sargent, Charles Michael",R,61,110,House,FALSE
+"Sexton, Cameron",R,25,110,House,FALSE
+"Sexton, Jerry",R,35,110,House,FALSE
+"Shaw, Johnny",D,80,110,House,FALSE
+"Sherrell, Paul",R,43,110,House,FALSE
+"Smith, Eddie",R,13,110,House,FALSE
+"Sparks, Mike",R,49,110,House,FALSE
+"Staples, Rick",D,15,110,House,FALSE
+"Stewart, Mike",D,52,110,House,FALSE
+"Terry, Bryan",R,48,110,House,FALSE
+"Thompson, Dwayne",D,96,110,House,FALSE
+"Tillis, Rick",R,92,110,House,FALSE
+"Towns, Joe, Jr.",D,84,110,House,FALSE
+"Travis, Ron",R,31,110,House,FALSE
+"Turner, Johnnie",D,85,110,House,FALSE
+"Van Huss, James (Micah)",R,6,110,House,FALSE
+"Vaughan, Kevin",R,95,110,House,FALSE
+"Weaver, Terri Lynn",R,40,110,House,FALSE
+"White, Dawn",R,37,110,House,FALSE
+"White, Mark",R,83,110,House,FALSE
+"Whitson, Sam",R,65,110,House,FALSE
+"Williams, Ryan",R,42,110,House,FALSE
+"Windle, John Mark",D,41,110,House,FALSE
+"Wirgau, Tim",R,75,110,House,FALSE
+"Zachary, Jason",R,14,110,House,FALSE
+"Bailey, Paul",R,15,110,Senate,FALSE
+"Bell, Mike",R,9,110,Senate,FALSE
+"Bowling, Janice",R,16,110,Senate,FALSE
+"Briggs, Richard",R,7,110,Senate,FALSE
+"Crowe, Rusty",R,3,110,Senate,FALSE
+"Dickerson, Steven",R,20,110,Senate,FALSE
+"Gardenhire, Todd",R,10,110,Senate,FALSE
+"Green, Mark",R,22,110,Senate,FALSE
+"Gresham, Dolores",R,26,110,Senate,FALSE
+"Haile, Ferrell",R,18,110,Senate,FALSE
+"Harper, Thelma",D,19,110,Senate,FALSE
+"Hensley, Joey",R,28,110,Senate,FALSE
+"Jackson, Ed",R,27,110,Senate,FALSE
+"Johnson, Jack",R,23,110,Senate,FALSE
+"Kelsey, Brian K.",R,31,110,Senate,FALSE
+"Kyle, Sara",D,30,110,Senate,FALSE
+"Lundberg, Jon",R,4,110,Senate,FALSE
+"Massey, Becky Duncan",R,6,110,Senate,FALSE
+"McNally, Randy",R,5,110,Senate,TRUE
+"Niceley, Frank S.",R,8,110,Senate,FALSE
+"Norris, Mark",R,32,110,Senate,FALSE
+"Pody, Mark",R,17,110,Senate,FALSE
+"Reeves, Shane",R,14,110,Senate,FALSE
+"Roberts, Kerry",R,25,110,Senate,FALSE
+"Southerland, Steve",R,1,110,Senate,FALSE
+"Stevens, John",R,24,110,Senate,FALSE
+"Swann, Art",R,2,110,Senate,FALSE
+"Tate, Reginald",D,33,110,Senate,FALSE
+"Watson, Bo",R,11,110,Senate,FALSE
+"Yager, Ken",R,12,110,Senate,FALSE
+"Yarbro, Jeff",D,21,110,Senate,FALSE
+"Ketron, Bill",R,13,110,Senate,FALSE
+"Harris, Lee",D,29,110,Senate,FALSE
+"Baum, Charlie",R,37,111,House,FALSE
+"Beck, Bill",D,51,111,House,FALSE
+"Boyd, Clark",R,46,111,House,FALSE
+"Bricken, Rush",R,47,111,House,FALSE
+"Byrd, David",R,71,111,House,FALSE
+"Calfee, Kent",R,32,111,House,FALSE
+"Camper, Karen D.",D,87,111,House,FALSE
+"Carr, Dale",R,12,111,House,FALSE
+"Carter, Mike",R,29,111,House,FALSE
+"Casada, Glen",R,63,111,House,FALSE
+"Cepicky, Scott",R,64,111,House,FALSE
+"Chism, Jesse",D,85,111,House,FALSE
+"Clemmons, John Ray",D,55,111,House,FALSE
+"Cochran, Mark",R,23,111,House,FALSE
+"Coley, Jim",R,97,111,House,FALSE
+"Cooper, Barbara",D,86,111,House,FALSE
+"Crawford, John",R,1,111,House,FALSE
+"Curcio, Michael G.",R,69,111,House,FALSE
+"Daniel, Martin",R,18,111,House,FALSE
+"DeBerry, John J., Jr.",D,90,111,House,FALSE
+"Dixie, Vincent",D,54,111,House,FALSE
+"Doggett, Clay",R,70,111,House,FALSE
+"Dunn, Bill",R,16,111,House,FALSE
+"Eldridge, Rick",R,10,111,House,FALSE
+"Faison, Jeremy",R,11,111,House,FALSE
+"Farmer, Andrew",R,17,111,House,FALSE
+"Freeman, Bob",D,56,111,House,FALSE
+"Gant, Ron M.",R,94,111,House,FALSE
+"Garrett, Johnny",R,45,111,House,FALSE
+"Griffey, Bruce",R,75,111,House,FALSE
+"Grills, Rusty",R,77,111,House,FALSE
+"Hakeem, Yusuf",D,28,111,House,FALSE
+"Halford, Curtis",R,79,111,House,FALSE
+"Hall, Mark",R,24,111,House,FALSE
+"Hardaway, G. A.",D,93,111,House,FALSE
+"Haston, Kirk",R,72,111,House,FALSE
+"Hawk, David",R,5,111,House,FALSE
+"Hazlewood, Patsy",R,27,111,House,FALSE
+"Helton, Esther",R,30,111,House,FALSE
+"Hicks, Gary",R,9,111,House,FALSE
+"Hill, Matthew",R,7,111,House,FALSE
+"Hill, Timothy",R,3,111,House,FALSE
+"Hodges, Jason",D,67,111,House,FALSE
+"Holsclaw, Jr., John B.",R,4,111,House,FALSE
+"Holt, Andy H.",R,76,111,House,FALSE
+"Howell, Dan",R,22,111,House,FALSE
+"Hulsey, Bud",R,2,111,House,FALSE
+"Hurt, Chris",R,82,111,House,FALSE
+"Jernigan, Darren",D,60,111,House,FALSE
+"Johnson, Curtis G.",R,68,111,House,FALSE
+"Johnson, Gloria",D,13,111,House,FALSE
+"Keisling, Kelly",R,38,111,House,FALSE
+"Kumar, Sabi",R,66,111,House,FALSE
+"Lafferty, Justin",R,89,111,House,FALSE
+"Lamar, London",D,91,111,House,FALSE
+"Lamberth, William",R,44,111,House,FALSE
+"Leatherwood, Tom",R,99,111,House,FALSE
+"Littleton, Mary",R,78,111,House,FALSE
+"Love, Harold M., Jr.",D,58,111,House,FALSE
+"Lynn, Susan M.",R,57,111,House,FALSE
+"Marsh, Pat",R,62,111,House,FALSE
+"Miller, Larry J.",D,88,111,House,FALSE
+"Mitchell, Bo",D,50,111,House,FALSE
+"Moody, Debra",R,81,111,House,FALSE
+"Moon, Jerome",R,8,111,House,FALSE
+"Ogles, Brandon",R,61,111,House,FALSE
+"Parkinson, Antonio",D,98,111,House,FALSE
+"Potts, Jason",D,59,111,House,FALSE
+"Powell, Jason",D,53,111,House,FALSE
+"Powers, Dennis",R,36,111,House,FALSE
+"Ragan, John",R,33,111,House,FALSE
+"Ramsey, Bob",R,20,111,House,FALSE
+"Reedy, Jay D.",R,74,111,House,FALSE
+"Rudd, Tim",R,34,111,House,FALSE
+"Rudder, Iris",R,39,111,House,FALSE
+"Russell, Lowell",R,21,111,House,FALSE
+"Sexton, Cameron",R,25,111,House,TRUE
+"Sexton, Jerry",R,35,111,House,FALSE
+"Shaw, Johnny",D,80,111,House,FALSE
+"Sherrell, Paul",R,43,111,House,FALSE
+"Smith, Robin",R,26,111,House,FALSE
+"Sparks, Mike",R,49,111,House,FALSE
+"Staples, Rick",D,15,111,House,FALSE
+"Stewart, Mike",D,52,111,House,FALSE
+"Terry, Bryan",R,48,111,House,FALSE
+"Thompson, Dwayne",D,96,111,House,FALSE
+"Tillis, Rick",R,92,111,House,FALSE
+"Todd, Chris",R,73,111,House,FALSE
+"Towns, Joe, Jr.",D,84,111,House,FALSE
+"Travis, Ron",R,31,111,House,FALSE
+"Van Huss, James (Micah)",R,6,111,House,FALSE
+"Vaughan, Kevin",R,95,111,House,FALSE
+"Weaver, Terri Lynn",R,40,111,House,FALSE
+"White, Mark",R,83,111,House,FALSE
+"Whitson, Sam",R,65,111,House,FALSE
+"Williams, Ryan",R,42,111,House,FALSE
+"Windle, John Mark",D,41,111,House,FALSE
+"Wright, Dave",R,19,111,House,FALSE
+"Zachary, Jason",R,14,111,House,FALSE
+"Akbari, Raumesh",D,29,111,Senate,FALSE
+"Bailey, Paul",R,15,111,Senate,FALSE
+"Bell, Mike",R,9,111,Senate,FALSE
+"Bowling, Janice",R,16,111,Senate,FALSE
+"Briggs, Richard",R,7,111,Senate,FALSE
+"Crowe, Rusty",R,3,111,Senate,FALSE
+"Dickerson, Steven",R,20,111,Senate,FALSE
+"Gardenhire, Todd",R,10,111,Senate,FALSE
+"Gilmore, Brenda",D,19,111,Senate,FALSE
+"Gresham, Dolores",R,26,111,Senate,FALSE
+"Haile, Ferrell",R,18,111,Senate,FALSE
+"Hensley, Joey",R,28,111,Senate,FALSE
+"Jackson, Ed",R,27,111,Senate,FALSE
+"Johnson, Jack",R,23,111,Senate,FALSE
+"Kelsey, Brian K.",R,31,111,Senate,FALSE
+"Kyle, Sara",D,30,111,Senate,FALSE
+"Lundberg, Jon",R,4,111,Senate,FALSE
+"Massey, Becky Duncan",R,6,111,Senate,FALSE
+"McNally, Randy",R,5,111,Senate,TRUE
+"Niceley, Frank S.",R,8,111,Senate,FALSE
+"Pody, Mark",R,17,111,Senate,FALSE
+"Powers, Bill",R,22,111,Senate,FALSE
+"Reeves, Shane",R,14,111,Senate,FALSE
+"Roberts, Kerry",R,25,111,Senate,FALSE
+"Robinson, Katrina",D,33,111,Senate,FALSE
+"Rose, Paul",R,32,111,Senate,FALSE
+"Southerland, Steve",R,1,111,Senate,FALSE
+"Stevens, John",R,24,111,Senate,FALSE
+"Swann, Art",R,2,111,Senate,FALSE
+"Watson, Bo",R,11,111,Senate,FALSE
+"White, Dawn",R,13,111,Senate,FALSE
+"Yager, Ken",R,12,111,Senate,FALSE
+"Yarbro, Jeff",D,21,111,Senate,FALSE
+"Alexander, Rebecca",R,7,112,House,FALSE
+"Baum, Charlie",R,37,112,House,FALSE
+"Beck, Bill",D,51,112,House,FALSE
+"Boyd, Clark",R,46,112,House,FALSE
+"Bricken, Rush",R,47,112,House,FALSE
+"Byrd, David",R,71,112,House,FALSE
+"Calfee, Kent",R,32,112,House,FALSE
+"Campbell, Scotty",R,3,112,House,FALSE
+"Camper, Karen D.",D,87,112,House,FALSE
+"Carr, Dale",R,12,112,House,FALSE
+"Carringer, Michele",R,16,112,House,FALSE
+"Carter, Mike",R,29,112,House,FALSE
+"Casada, Glen",R,63,112,House,FALSE
+"Cepicky, Scott",R,64,112,House,FALSE
+"Chism, Jesse",D,85,112,House,FALSE
+"Clemmons, John Ray",D,55,112,House,FALSE
+"Cochran, Mark",R,23,112,House,FALSE
+"Cooper, Barbara",D,86,112,House,FALSE
+"Crawford, John",R,1,112,House,FALSE
+"Curcio, Michael G.",R,69,112,House,FALSE
+"Darby, Tandy",R,76,112,House,FALSE
+"Dixie, Vincent",D,54,112,House,FALSE
+"Doggett, Clay",R,70,112,House,FALSE
+"Eldridge, Rick",R,10,112,House,FALSE
+"Faison, Jeremy",R,11,112,House,FALSE
+"Farmer, Andrew",R,17,112,House,FALSE
+"Freeman, Bob",D,56,112,House,FALSE
+"Gant, Ron M.",R,94,112,House,FALSE
+"Garrett, Johnny",R,45,112,House,FALSE
+"Gillespie, John",R,97,112,House,FALSE
+"Griffey, Bruce",R,75,112,House,FALSE
+"Grills, Rusty",R,77,112,House,FALSE
+"Hakeem, Yusuf",D,28,112,House,FALSE
+"Halford, Curtis",R,79,112,House,FALSE
+"Hall, Mark",R,24,112,House,FALSE
+"Hardaway, G. A.",D,93,112,House,FALSE
+"Harris, Torrey C.",D,90,112,House,FALSE
+"Haston, Kirk",R,72,112,House,FALSE
+"Hawk, David",R,5,112,House,FALSE
+"Hazlewood, Patsy",R,27,112,House,FALSE
+"Helton, Esther",R,30,112,House,FALSE
+"Hicks, Gary",R,9,112,House,FALSE
+"Hicks, Tim",R,6,112,House,FALSE
+"Hodges, Jason",D,67,112,House,FALSE
+"Holsclaw, Jr., John B.",R,4,112,House,FALSE
+"Howell, Dan",R,22,112,House,FALSE
+"Hulsey, Bud",R,2,112,House,FALSE
+"Hurt, Chris",R,82,112,House,FALSE
+"Jernigan, Darren",D,60,112,House,FALSE
+"Johnson, Curtis G.",R,68,112,House,FALSE
+"Johnson, Gloria",D,13,112,House,FALSE
+"Keisling, Kelly",R,38,112,House,FALSE
+"Kumar, Sabi",R,66,112,House,FALSE
+"Lafferty, Justin",R,89,112,House,FALSE
+"Lamar, London",D,91,112,House,FALSE
+"Lamberth, William",R,44,112,House,FALSE
+"Leatherwood, Tom",R,99,112,House,FALSE
+"Littleton, Mary",R,78,112,House,FALSE
+"Love, Harold M., Jr.",D,58,112,House,FALSE
+"Lynn, Susan M.",R,57,112,House,FALSE
+"Mannis, Eddie",R,18,112,House,FALSE
+"Marsh, Pat",R,62,112,House,FALSE
+"McKenzie, Sam",D,15,112,House,FALSE
+"Miller, Larry J.",D,88,112,House,FALSE
+"Mitchell, Bo",D,50,112,House,FALSE
+"Moody, Debra",R,81,112,House,FALSE
+"Moon, Jerome",R,8,112,House,FALSE
+"Ogles, Brandon",R,61,112,House,FALSE
+"Parkinson, Antonio",D,98,112,House,FALSE
+"Potts, Jason",D,59,112,House,FALSE
+"Powell, Jason",D,53,112,House,FALSE
+"Powers, Dennis",R,36,112,House,FALSE
+"Ragan, John",R,33,112,House,FALSE
+"Ramsey, Bob",R,20,112,House,FALSE
+"Reedy, Jay D.",R,74,112,House,FALSE
+"Rudd, Tim",R,34,112,House,FALSE
+"Rudder, Iris",R,39,112,House,FALSE
+"Russell, Lowell",R,21,112,House,FALSE
+"Sexton, Cameron",R,25,112,House,TRUE
+"Sexton, Jerry",R,35,112,House,FALSE
+"Shaw, Johnny",D,80,112,House,FALSE
+"Sherrell, Paul",R,43,112,House,FALSE
+"Smith, Robin",R,26,112,House,FALSE
+"Sparks, Mike",R,49,112,House,FALSE
+"Stewart, Mike",D,52,112,House,FALSE
+"Terry, Bryan",R,48,112,House,FALSE
+"Thompson, Dwayne",D,96,112,House,FALSE
+"Todd, Chris",R,73,112,House,FALSE
+"Towns, Joe, Jr.",D,84,112,House,FALSE
+"Travis, Ron",R,31,112,House,FALSE
+"Vaughan, Kevin",R,95,112,House,FALSE
+"Warner, Todd",R,92,112,House,FALSE
+"Weaver, Terri Lynn",R,40,112,House,FALSE
+"White, Mark",R,83,112,House,FALSE
+"Whitson, Sam",R,65,112,House,FALSE
+"Williams, Ryan",R,42,112,House,FALSE
+"Windle, John Mark",D,41,112,House,FALSE
+"Wright, Dave",R,19,112,House,FALSE
+"Zachary, Jason",R,14,112,House,FALSE
+"Akbari, Raumesh",D,29,112,Senate,FALSE
+"Bailey, Paul",R,15,112,Senate,FALSE
+"Bell, Mike",R,9,112,Senate,FALSE
+"Bowling, Janice",R,16,112,Senate,FALSE
+"Briggs, Richard",R,7,112,Senate,FALSE
+"Campbell, Heidi",D,20,112,Senate,FALSE
+"Crowe, Rusty",R,3,112,Senate,FALSE
+"Gardenhire, Todd",R,10,112,Senate,FALSE
+"Gilmore, Brenda",D,19,112,Senate,FALSE
+"Haile, Ferrell",R,18,112,Senate,FALSE
+"Hensley, Joey",R,28,112,Senate,FALSE
+"Jackson, Ed",R,27,112,Senate,FALSE
+"Johnson, Jack",R,23,112,Senate,FALSE
+"Kelsey, Brian K.",R,31,112,Senate,FALSE
+"Kyle, Sara",D,30,112,Senate,FALSE
+"Lundberg, Jon",R,4,112,Senate,FALSE
+"Massey, Becky Duncan",R,6,112,Senate,FALSE
+"McNally, Randy",R,5,112,Senate,TRUE
+"Niceley, Frank S.",R,8,112,Senate,FALSE
+"Pody, Mark",R,17,112,Senate,FALSE
+"Powers, Bill",R,22,112,Senate,FALSE
+"Reeves, Shane",R,14,112,Senate,FALSE
+"Roberts, Kerry",R,25,112,Senate,FALSE
+"Robinson, Katrina",D,33,112,Senate,FALSE
+"Rose, Paul",R,32,112,Senate,FALSE
+"Southerland, Steve",R,1,112,Senate,FALSE
+"Stevens, John",R,24,112,Senate,FALSE
+"Swann, Art",R,2,112,Senate,FALSE
+"Walley, Page",R,26,112,Senate,FALSE
+"Watson, Bo",R,11,112,Senate,FALSE
+"White, Dawn",R,13,112,Senate,FALSE
+"Yager, Ken",R,12,112,Senate,FALSE
+"Yarbro, Jeff",D,21,112,Senate,FALSE
