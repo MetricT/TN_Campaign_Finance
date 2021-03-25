@@ -740,7 +740,7 @@ pac_legislature_candidate <-
     "SPEAKER EMERITUS LEADERSHIP FUND", # Jimmy Naifeh
     "RIMPAC",                   # Diane Black
     "MAJORITY TENNESSEE",       # Don Sundquist
-    "TENNESSEE KEEP YOUR LEGISLATURE EFFICIENT PAC", # Sara Kyle
+    "TENNESSEE KEEP YOUR LEGISLATURE EFFICIENT PAC", # Jim Kyle
     "BOW-PAC",                  # Bo Watson
     "PB PAC",                   # Sen Paul Bailey
     "KEYPAC",                   # Ken Yager
