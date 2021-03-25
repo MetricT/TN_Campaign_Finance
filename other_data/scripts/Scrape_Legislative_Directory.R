@@ -101,7 +101,11 @@ senate_110 <-
   mutate(District = gsub("District ", "", District),
          District = as.numeric(District)) %>%
   mutate(Session = 110,
-         Chamber = "Senate")
+         Chamber = "Senate") 
+
+# Manually add Doug Overbey since he's not there for some reason
+#  %>% add_rows("Overbey, Doug", "R", "2", "110", "Senate",)
+
 
 
 ################################################################################

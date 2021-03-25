@@ -797,7 +797,8 @@ pac_legislature_party <-
     "TENNESSEE DEMOCRATIC PARTY",
     "SENATE DEMOCRATIC CAUCUS",
     "HOUSE REPUBLICAN CAUCUS",
-    "HOUSE SENATE DEMOCRATIC CAUCUS"
+    "HOUSE SENATE DEMOCRATIC CAUCUS",
+    "TRA-PAC"
    )
 
 pac_payday_loans <-
@@ -845,4 +846,28 @@ individual_tobacco <-
 pac_pharma_drugtests <- c("AEGIS SCIENCES CORP")
 
 
+pac_firearm_mfg <-
+  c(
+    "BARRETT FIREARMS MANUFACTURING",
+    "BERETTA RE LLC",
+    "BERETTA USA",
+    "BERETTA U.S.A. TN PAC",
+    "CAMPBELL ARMS MANUFACTURING LLC"
+  )
 
+pac_firearm_retailers <- 
+  c(
+    "TENNESSEE FIREARMS ASSN LEGISLATIVE ACTION COMMITTEE",
+    "TENNESSEE FIREARMS ASSOCIATION",
+    "TENNESSEE FIREARMS ASSOCIATION, INC.",
+    "TENNESSEE FIREARMS ASSOCATION",
+    "TENNESSEE FIREARMS ASSOCIATION, INC",
+    "TFALAC"
+)
+
+# 5 FULLY LOADED FIREARMS INC.                          
+# 
+
+#2 JAMES FIREARMS                                       204-A W 4TH STREET, COLUMBIA , TN, 38401          
+#6 FULLY LOADED FIREARMS INC.                           494 OLD SHELBYVILLE ROAD , MCMINNVILLE , TN, 37110
+#11 KRB FIREARMS                                         9904 LEBANON, MR. JULIET , TN, 37122     

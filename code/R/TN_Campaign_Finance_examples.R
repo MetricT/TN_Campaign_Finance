@@ -427,3 +427,66 @@ contrib %>%
   ungroup() %>% 
   arrange(desc(Amount)) %>% 
   print(n = 20)
+
+################################################################################
+### Example 9:  How much do Alcohol Producers, Distributors, and Retailers donate?
+################################################################################
+
+data_alcohol_producer <- 
+  contrib %>% 
+  filter(Dest == "Candidate") %>% 
+  filter(Contributor.Name %in% pac_alcohol_producer) %>% 
+  filter(Report.Year >= 2004) %>%
+  select(Report.Year, Amount) %>% 
+  group_by(Report.Year) %>% 
+  summarize(Amount = sum(Amount)) %>% 
+  ungroup() %>% 
+  arrange(Report.Year) %>%
+  rename(Producer = Amount)
+
+data_alcohol_wholesaler <- 
+  contrib %>% 
+  filter(Dest == "Candidate") %>% 
+  filter(Contributor.Name %in% pac_alcohol_wholesaler) %>% 
+  filter(Report.Year >= 2004) %>%
+  select(Report.Year, Amount) %>% 
+  group_by(Report.Year) %>% 
+  summarize(Amount = sum(Amount)) %>% 
+  ungroup() %>% 
+  arrange(Report.Year) %>%
+  rename(Wholesaler = Amount)
+
+data_alcohol_retailer <- 
+  contrib %>% 
+  filter(Dest == "Candidate") %>% 
+  filter(Contributor.Name %in% pac_alcohol_retailer) %>% 
+  filter(Report.Year >= 2004) %>%
+  select(Report.Year, Amount) %>% 
+  group_by(Report.Year) %>% 
+  summarize(Amount = sum(Amount)) %>% 
+  ungroup() %>% 
+  arrange(Report.Year) %>%
+  rename(Retailer = Amount)
+
+data_alcohol_tiers <-
+  data_alcohol_producer %>%
+  full_join(data_alcohol_wholesaler, by = "Report.Year") %>% 
+  full_join(data_alcohol_retailer,   by = "Report.Year") %>%
+  arrange(Report.Year) %>%
+  mutate_if(is.numeric, ~ (replace_na(., 0))) %>%
+  pivot_longer(-Report.Year, names_to = "Tier", values_to = "Amount") %>%
+  mutate(Tier = fct_relevel(Tier, c("Producer", "Wholesaler", "Retailer")))
+
+g_alcohol_tiers <-
+  ggplot(data = data_alcohol_tiers) +
+  theme_bw() +
+  geom_line(aes(x = Report.Year, y = Amount, color = Tier), size = 1.3) +
+  scale_y_continuous(labels = scales::dollar) +
+  scale_x_continuous(
+    breaks = c(2000, 2001, 2003, 2005, 2007, 2009, 
+               2011, 2013, 2015, 2017, 2019, 2021), 
+    labels = c("101st\n2000", "102nd\n2001", "103rd\n2003", "104th\n2005", 
+               "105th\n2007", "106th\n2009", "107th\n2011", "108th\n2013",
+               "109th\n2015", "110th\n2017", "111st\n2019", "112nd\n2021")) +
+  labs(title = "Campaign Contributions by Alcohol companies to TN Legislators by Tier", x = "", y = "")
+print(g_alcohol_tiers)
