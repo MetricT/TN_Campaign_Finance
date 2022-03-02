@@ -5,6 +5,7 @@ library(plyr)
 library(tidyverse)
 library(lubridate)
 library(gt)
+library(cowplot)
 
 ### Load the Campaign Finance data
 contrib <- read_csv("../../Contributions_cleaned.csv")
@@ -117,7 +118,7 @@ contrib %>%
 
 contrib %>% 
   filter(Source == "Candidate" & Dest == "Candidate") %>% 
-  filter(Report.Year <= 2016) %>%
+  filter(Report.Year >= 2016) %>%
   filter(!is.na(Amount)) %>% 
   select(Amount, Recipient.Name) %>% 
   group_by(Recipient.Name) %>% 
@@ -134,6 +135,8 @@ contrib %>%
 ### Example 5:  What was the effect of "Citizens United" on the number of PACs
 ###             and dollar volume of PAC contributions?
 ################################################################################
+
+# NOTE:  This is broken because PAC data is split across two databases.
 
 ### Graph the number of PACs using the info in the PAC database
 g_number_pacs <-
